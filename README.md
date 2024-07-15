@@ -21,5 +21,6 @@ Cada integrante da equipe ficou de fazer um estudo inicial particular para a par
 O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CURSO_IA_ML/blob/main/insurance.csv), que foi adaptado para o contexto do brasil no sentido de regiões, atualizado seus rótulos e atualizado os válores.
 
 # Estudos iniciais
+- https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/abimael
 - https://github.com/DeyvidJLira/fiap-iadev-project-fase1
 
