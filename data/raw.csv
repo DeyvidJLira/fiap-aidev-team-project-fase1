@@ -1,0 +1,1339 @@
+idade,sexo,imc,criancas,fumante,regiao,valor_pago
+19,feminino,27.9,0,sim,sul,16884.92
+18,masculino,33.77,1,nao,sudeste,1725.55
+28,masculino,33.0,3,nao,sudeste,4449.46
+33,masculino,22.705,0,nao,nordeste,21984.47
+32,masculino,28.88,0,nao,sudeste,3866.86
+31,feminino,25.74,0,nao,sul,3756.62
+46,feminino,33.44,1,nao,norte,8240.59
+37,feminino,27.74,3,nao,norte,7281.51
+37,masculino,29.83,2,nao,sudeste,6406.41
+60,feminino,25.84,0,nao,sudeste,28923.14
+25,masculino,26.22,0,nao,sudeste,2721.32
+62,feminino,26.29,0,sim,nordeste,27808.73
+23,masculino,34.4,0,nao,nordeste,1826.84
+56,feminino,39.82,0,nao,nordeste,11090.72
+27,masculino,42.13,0,sim,sul,39611.76
+19,masculino,24.6,1,nao,sul,1837.24
+52,feminino,30.78,1,nao,centro oeste,10797.34
+23,masculino,23.845,0,nao,sudeste,2395.17
+56,masculino,40.3,0,nao,norte,10602.38
+30,masculino,35.3,0,sim,centro oeste,36837.47
+60,feminino,36.005,0,nao,norte,13228.85
+30,feminino,32.4,1,nao,sudeste,4149.74
+18,masculino,34.1,0,nao,sul,1137.01
+34,feminino,31.92,1,sim,centro oeste,37701.88
+37,masculino,28.025,2,nao,sudeste,6203.9
+59,feminino,27.72,3,nao,centro oeste,14001.13
+63,feminino,23.085,0,nao,norte,14451.84
+55,feminino,32.775,2,nao,sudeste,12268.63
+23,masculino,17.385,1,nao,nordeste,2775.19
+31,masculino,36.3,2,sim,sudeste,38711.0
+22,masculino,35.6,0,sim,nordeste,35585.58
+18,feminino,26.315,0,nao,nordeste,2198.19
+19,feminino,28.6,5,nao,centro oeste,4687.8
+63,masculino,28.31,0,nao,sudeste,13770.1
+28,masculino,36.4,1,sim,norte,51194.56
+19,masculino,20.425,0,nao,norte,1625.43
+62,feminino,32.965,3,nao,centro oeste,15612.19
+26,masculino,20.8,0,nao,centro oeste,2302.3
+35,masculino,36.67,1,sim,sul,39774.28
+60,masculino,39.9,0,sim,sul,48173.36
+24,feminino,26.6,0,nao,sudeste,3046.06
+31,feminino,36.63,2,nao,norte,4949.76
+41,masculino,21.78,1,nao,sul,6272.48
+37,feminino,30.8,2,nao,sudeste,6313.76
+38,masculino,37.05,1,nao,norte,6079.67
+55,masculino,37.3,0,nao,sudeste,20630.28
+18,feminino,38.665,2,nao,sudeste,3393.36
+28,feminino,34.77,0,nao,sudeste,3556.92
+60,feminino,24.53,0,nao,centro oeste,12629.9
+36,masculino,35.2,1,sim,nordeste,38709.18
+18,feminino,35.625,0,nao,centro oeste,2211.13
+21,feminino,33.63,2,nao,centro oeste,3579.83
+48,masculino,28.0,1,sim,norte,23568.27
+36,masculino,34.43,0,sim,centro oeste,37742.58
+40,feminino,28.69,3,nao,sul,8059.68
+58,masculino,36.955,2,sim,sul,47496.49
+58,feminino,31.825,2,nao,sudeste,13607.37
+18,masculino,31.68,2,sim,centro oeste,34303.17
+53,feminino,22.88,1,sim,nordeste,23244.79
+34,feminino,37.335,2,nao,sul,5989.52
+43,masculino,27.36,3,nao,centro oeste,8606.22
+25,masculino,33.66,4,nao,sudeste,4504.66
+64,masculino,24.7,1,nao,sudeste,30166.62
+28,feminino,25.935,1,nao,norte,4133.64
+20,feminino,22.42,0,sim,nordeste,14711.74
+19,feminino,28.9,0,nao,sudeste,1743.21
+61,feminino,39.1,2,nao,nordeste,14235.07
+40,masculino,26.315,1,nao,sudeste,6389.38
+40,feminino,36.19,0,nao,centro oeste,5920.1
+28,masculino,23.98,3,sim,norte,17663.14
+27,feminino,24.75,0,sim,sul,16577.78
+31,masculino,28.5,5,nao,sul,6799.46
+53,feminino,28.1,3,nao,norte,11741.73
+58,masculino,32.01,1,nao,norte,11946.63
+44,masculino,27.4,2,nao,nordeste,7726.85
+57,masculino,34.01,0,nao,sul,11356.66
+29,feminino,29.59,1,nao,sul,3947.41
+21,masculino,35.53,0,nao,nordeste,1532.47
+22,feminino,39.805,0,nao,sudeste,2755.02
+41,feminino,32.965,0,nao,norte,6571.02
+31,masculino,26.885,1,nao,centro oeste,4441.21
+45,feminino,38.285,0,nao,norte,7935.29
+22,masculino,37.62,1,sim,sul,37165.16
+48,feminino,41.23,4,nao,nordeste,11033.66
+37,feminino,34.8,2,sim,nordeste,39836.52
+45,masculino,22.895,2,sim,nordeste,21098.55
+57,feminino,31.16,0,sim,nordeste,43578.94
+56,feminino,27.2,0,nao,centro oeste,11073.18
+46,feminino,27.74,0,nao,sudeste,8026.67
+55,feminino,26.98,0,nao,norte,11082.58
+21,feminino,39.49,0,nao,sul,2026.97
+53,feminino,24.795,1,nao,sul,10942.13
+59,masculino,29.83,3,sim,sul,30184.94
+35,masculino,34.77,2,nao,norte,5729.01
+64,feminino,31.3,2,sim,sudeste,47291.06
+28,feminino,37.62,1,nao,centro oeste,3766.88
+54,feminino,30.8,3,nao,sudeste,12105.32
+55,masculino,38.28,0,nao,sul,10226.28
+56,masculino,19.95,0,sim,norte,22412.65
+38,masculino,19.3,0,sim,norte,15820.7
+41,feminino,31.6,0,nao,norte,6186.13
+30,masculino,25.46,0,nao,centro oeste,3645.09
+18,feminino,30.115,0,nao,nordeste,21344.85
+61,feminino,29.92,3,sim,sul,30942.19
+34,feminino,27.5,1,nao,sudeste,5003.85
+20,masculino,28.025,1,sim,nordeste,17560.38
+19,feminino,28.4,1,nao,sul,2331.52
+26,masculino,30.875,2,nao,nordeste,3877.3
+29,masculino,27.94,0,nao,sul,2867.12
+63,masculino,35.09,0,sim,sudeste,47055.53
+54,masculino,33.63,1,nao,sudeste,10825.25
+55,feminino,29.7,2,nao,sudeste,11881.36
+37,masculino,30.8,0,nao,centro oeste,4646.76
+21,feminino,35.72,0,nao,nordeste,2404.73
+52,masculino,32.205,3,nao,norte,11488.32
+60,masculino,28.595,0,nao,centro oeste,30260.0
+58,masculino,49.06,0,nao,centro oeste,11381.33
+29,feminino,27.94,1,sim,sudeste,19107.78
+49,feminino,27.17,0,nao,centro oeste,8601.33
+37,feminino,23.37,2,nao,sul,6686.43
+44,masculino,37.1,2,nao,centro oeste,7740.34
+18,masculino,23.75,0,nao,sul,1705.62
+20,feminino,28.975,0,nao,norte,2257.48
+44,masculino,31.35,1,sim,sudeste,39556.49
+47,feminino,33.915,3,nao,norte,10115.01
+26,feminino,28.785,0,nao,sudeste,3385.4
+19,feminino,28.3,0,sim,sul,17081.08
+52,feminino,37.4,0,nao,sul,9634.54
+32,feminino,17.765,2,sim,sul,32734.19
+38,masculino,34.7,2,nao,centro oeste,6082.4
+59,feminino,26.505,0,nao,sul,12815.44
+61,feminino,22.04,0,nao,norte,13616.36
+53,feminino,35.9,2,nao,centro oeste,11163.57
+19,masculino,25.555,0,nao,centro oeste,1632.56
+20,feminino,28.785,0,nao,sul,2457.21
+22,feminino,28.05,0,nao,norte,2155.68
+19,masculino,34.1,0,nao,centro oeste,1261.44
+22,masculino,25.175,0,nao,sul,2045.69
+54,feminino,31.9,3,nao,sudeste,27322.73
+22,feminino,36.0,0,nao,centro oeste,2166.73
+34,masculino,22.42,2,nao,centro oeste,27375.9
+26,masculino,32.49,1,nao,nordeste,3490.55
+34,masculino,25.3,2,sim,sudeste,18972.5
+29,masculino,29.735,2,nao,sul,18157.88
+30,masculino,28.69,3,sim,norte,20745.99
+29,feminino,38.83,3,nao,sudeste,5138.26
+46,masculino,30.495,3,sim,centro oeste,40720.55
+51,feminino,37.73,1,nao,sudeste,9877.61
+53,feminino,37.43,1,nao,sul,10959.69
+19,masculino,28.4,1,nao,centro oeste,1842.52
+35,masculino,24.13,1,nao,nordeste,5125.22
+48,masculino,29.7,0,nao,sul,7789.64
+32,feminino,37.145,3,nao,norte,6334.34
+42,feminino,23.37,0,sim,centro oeste,19964.75
+40,feminino,25.46,1,nao,centro oeste,7077.19
+44,masculino,39.52,0,nao,nordeste,6948.7
+48,masculino,24.42,0,sim,centro oeste,21223.68
+18,masculino,25.175,0,sim,sul,15518.18
+30,masculino,35.53,0,sim,centro oeste,36950.26
+50,feminino,27.83,3,nao,centro oeste,19749.38
+42,feminino,26.6,0,sim,nordeste,21348.71
+18,feminino,36.85,0,sim,centro oeste,36149.48
+54,masculino,39.6,1,nao,sudeste,10450.55
+32,feminino,29.8,2,nao,sul,5152.13
+37,masculino,29.64,0,nao,norte,5028.15
+47,masculino,28.215,4,nao,centro oeste,10407.09
+20,feminino,37.0,5,nao,nordeste,4830.63
+32,feminino,33.155,3,nao,centro oeste,6128.8
+19,feminino,31.825,1,nao,norte,2719.28
+27,masculino,18.905,3,nao,sul,4827.9
+63,masculino,41.47,0,nao,norte,13405.39
+49,masculino,30.3,0,nao,sul,8116.68
+18,masculino,15.96,0,nao,nordeste,1694.8
+35,feminino,34.8,1,nao,centro oeste,5246.05
+24,feminino,33.345,0,nao,centro oeste,2855.44
+63,feminino,37.7,0,sim,centro oeste,48824.45
+38,masculino,27.835,2,nao,sudeste,6455.86
+54,masculino,29.2,1,nao,nordeste,10436.1
+46,feminino,28.9,2,nao,nordeste,8823.28
+41,feminino,33.155,3,nao,norte,8538.29
+58,masculino,28.595,0,nao,nordeste,11735.88
+18,feminino,38.28,0,nao,norte,1631.82
+22,masculino,19.95,3,nao,sudeste,4005.42
+44,feminino,26.41,0,nao,sudeste,7419.48
+44,masculino,30.69,2,nao,centro oeste,7731.43
+36,masculino,41.895,3,sim,centro oeste,43753.34
+26,feminino,29.92,2,nao,centro oeste,3981.98
+30,feminino,30.9,3,nao,norte,5325.65
+41,feminino,32.2,1,nao,nordeste,6775.96
+29,feminino,32.11,2,nao,centro oeste,4922.92
+61,masculino,31.57,0,nao,sul,12557.61
+36,feminino,26.2,0,nao,nordeste,4883.87
+25,masculino,25.74,0,nao,sudeste,2137.65
+56,feminino,26.6,1,nao,norte,12044.34
+18,masculino,34.43,0,nao,sul,1137.47
+19,masculino,30.59,0,nao,sul,1639.56
+39,feminino,32.8,0,nao,centro oeste,5649.72
+45,feminino,28.6,2,nao,nordeste,8516.83
+51,feminino,18.05,0,nao,nordeste,9644.25
+64,feminino,39.33,0,nao,norte,14901.52
+19,feminino,32.11,0,nao,sul,2130.68
+48,feminino,32.23,1,nao,norte,8871.15
+60,feminino,24.035,0,nao,norte,13012.21
+27,feminino,36.08,0,sim,sudeste,37133.9
+46,masculino,22.3,0,nao,norte,7147.1
+28,feminino,28.88,1,nao,sul,4337.74
+59,masculino,26.4,0,nao,sul,11743.3
+35,masculino,27.74,2,sim,sul,20984.09
+63,feminino,31.8,0,nao,centro oeste,13880.95
+40,masculino,41.23,1,nao,sul,6610.11
+20,masculino,33.0,1,nao,nordeste,1980.07
+40,masculino,30.875,4,nao,sul,8162.72
+24,masculino,28.5,2,nao,sul,3537.7
+34,feminino,26.73,1,nao,centro oeste,5002.78
+45,feminino,30.9,2,nao,norte,8520.03
+41,feminino,37.1,2,nao,sudeste,7371.77
+53,feminino,26.6,0,nao,sudeste,10355.64
+27,masculino,23.1,0,nao,centro oeste,2483.74
+26,feminino,29.92,1,nao,norte,3392.98
+24,feminino,23.21,0,nao,norte,25081.77
+34,feminino,33.7,1,nao,centro oeste,5012.47
+53,feminino,33.25,0,nao,sudeste,10564.88
+32,masculino,30.8,3,nao,nordeste,5253.52
+19,masculino,34.8,0,sim,norte,34779.62
+42,masculino,24.64,0,sim,sudeste,19515.54
+55,masculino,33.88,3,nao,sudeste,11987.17
+28,masculino,38.06,0,nao,norte,2689.5
+58,feminino,41.91,0,nao,sudeste,24227.34
+41,feminino,31.635,1,nao,centro oeste,7358.18
+47,masculino,25.46,2,nao,nordeste,9225.26
+42,feminino,36.195,1,nao,centro oeste,7443.64
+59,feminino,27.83,3,nao,norte,14001.29
+19,feminino,17.8,0,nao,centro oeste,1727.78
+59,masculino,27.5,1,nao,centro oeste,12333.83
+39,masculino,24.51,2,nao,sul,6710.19
+40,feminino,22.22,2,sim,norte,19444.27
+18,feminino,26.73,0,nao,sul,1615.77
+31,masculino,38.39,2,nao,nordeste,4463.21
+19,masculino,29.07,0,sim,centro oeste,17352.68
+44,masculino,38.06,1,nao,centro oeste,7152.67
+23,feminino,36.67,2,sim,norte,38511.63
+33,feminino,22.135,1,nao,norte,5354.07
+55,feminino,26.8,1,nao,centro oeste,35160.13
+40,masculino,35.3,3,nao,norte,7196.87
+63,feminino,27.74,0,sim,sul,29523.17
+54,masculino,30.02,0,nao,norte,24476.48
+60,feminino,38.06,0,nao,sudeste,12648.7
+24,masculino,35.86,0,nao,sudeste,1986.93
+19,masculino,20.9,1,nao,nordeste,1832.09
+29,masculino,28.975,1,nao,norte,4040.56
+18,masculino,17.29,2,sim,centro oeste,12829.46
+63,feminino,32.2,2,sim,sudeste,47305.3
+54,masculino,34.21,2,sim,sul,44260.75
+27,masculino,30.3,3,nao,sul,4260.74
+50,masculino,31.825,0,sim,sul,41097.16
+55,feminino,25.365,3,nao,norte,13047.33
+56,masculino,33.63,0,sim,centro oeste,43921.18
+38,feminino,40.15,0,nao,centro oeste,5400.98
+51,masculino,24.415,4,nao,sudeste,11520.1
+19,masculino,31.92,0,sim,nordeste,33750.29
+58,feminino,25.2,0,nao,norte,11837.16
+20,feminino,26.84,1,sim,nordeste,17085.27
+52,masculino,24.32,3,sim,nordeste,24869.84
+19,masculino,36.955,0,sim,sul,36219.41
+53,feminino,38.06,3,nao,norte,20463.0
+46,masculino,42.35,3,sim,sudeste,46151.12
+40,masculino,19.8,1,sim,sul,17179.52
+59,feminino,32.395,3,nao,sul,14590.63
+45,masculino,30.2,1,nao,centro oeste,7441.05
+49,masculino,25.84,1,nao,sudeste,9282.48
+18,masculino,29.37,1,nao,norte,1719.44
+50,masculino,34.2,2,sim,sudeste,42856.84
+41,masculino,37.05,2,nao,centro oeste,7265.7
+50,masculino,27.455,1,nao,nordeste,9617.66
+25,masculino,27.55,0,nao,sul,2523.17
+47,feminino,26.6,2,nao,centro oeste,9715.84
+19,masculino,20.615,2,nao,sul,2803.7
+22,feminino,24.3,0,nao,sul,2150.47
+59,masculino,31.79,2,nao,sudeste,12928.79
+51,feminino,21.56,1,nao,sudeste,9855.13
+40,feminino,28.12,1,sim,sul,22331.57
+54,masculino,40.565,3,sim,centro oeste,48549.18
+30,masculino,27.645,1,nao,nordeste,4237.13
+55,feminino,32.395,1,nao,nordeste,11879.1
+52,feminino,31.2,0,nao,centro oeste,9625.92
+46,masculino,26.62,1,nao,sudeste,7742.11
+46,feminino,48.07,2,nao,sul,9432.93
+63,feminino,26.22,0,nao,sudeste,14256.19
+59,feminino,36.765,1,sim,centro oeste,47896.79
+52,masculino,26.4,3,nao,centro oeste,25992.82
+28,feminino,33.4,0,nao,sul,3172.02
+29,masculino,29.64,1,nao,sudeste,20277.81
+25,masculino,45.54,2,sim,norte,42112.24
+22,feminino,28.82,0,nao,norte,2156.75
+25,masculino,26.8,3,nao,nordeste,3906.13
+18,masculino,22.99,0,nao,norte,1704.57
+19,masculino,27.7,0,sim,sudeste,16297.85
+47,masculino,25.41,1,sim,centro oeste,21978.68
+31,masculino,34.39,3,sim,sudeste,38746.36
+48,feminino,28.88,1,nao,centro oeste,9249.5
+36,masculino,27.55,3,nao,norte,6746.74
+53,feminino,22.61,3,sim,centro oeste,24873.38
+56,feminino,37.51,2,nao,sul,12265.51
+28,feminino,33.0,2,nao,norte,4349.46
+57,feminino,38.0,2,nao,centro oeste,12646.21
+29,masculino,33.345,2,nao,nordeste,19442.35
+28,feminino,27.5,2,nao,norte,20177.67
+30,feminino,33.33,1,nao,nordeste,4151.03
+58,masculino,34.865,0,nao,centro oeste,11944.59
+41,feminino,33.06,2,nao,centro oeste,7749.16
+50,masculino,26.6,0,nao,norte,8444.47
+19,feminino,24.7,0,nao,nordeste,1737.38
+43,masculino,35.97,3,sim,centro oeste,42124.52
+49,masculino,35.86,0,nao,nordeste,8124.41
+27,feminino,31.4,0,sim,nordeste,34838.87
+52,masculino,33.25,0,nao,sudeste,9722.77
+50,masculino,32.205,0,nao,norte,8835.26
+54,masculino,32.775,0,nao,centro oeste,10435.07
+44,feminino,27.645,0,nao,centro oeste,7421.19
+32,masculino,37.335,1,nao,sul,4667.61
+34,masculino,25.27,1,nao,nordeste,4894.75
+26,feminino,29.64,4,nao,centro oeste,24671.66
+34,masculino,30.8,0,sim,norte,35491.64
+57,masculino,40.945,0,nao,nordeste,11566.3
+29,masculino,27.2,0,nao,nordeste,2866.09
+40,masculino,34.105,1,nao,nordeste,6600.21
+27,feminino,23.21,1,nao,norte,3561.89
+45,masculino,36.48,2,sim,norte,42760.5
+64,feminino,33.8,1,sim,nordeste,47928.03
+52,masculino,36.7,0,nao,nordeste,9144.56
+61,feminino,36.385,1,sim,sul,48517.56
+52,masculino,27.36,0,sim,norte,24393.62
+61,feminino,31.16,0,nao,sul,13429.04
+56,feminino,28.785,0,nao,nordeste,11658.38
+43,feminino,35.72,2,nao,norte,19144.58
+64,masculino,34.5,0,nao,sul,13822.8
+60,masculino,25.74,0,nao,centro oeste,12142.58
+62,masculino,27.55,1,nao,nordeste,13937.67
+50,masculino,32.3,1,sim,norte,41919.1
+46,feminino,27.72,1,nao,norte,8232.64
+24,feminino,27.6,0,nao,sul,18955.22
+62,masculino,30.02,0,nao,nordeste,13352.1
+60,feminino,27.55,0,nao,nordeste,13217.09
+63,masculino,36.765,0,nao,sudeste,13981.85
+49,feminino,41.47,4,nao,centro oeste,10977.21
+34,feminino,29.26,3,nao,sul,6184.3
+33,masculino,35.75,2,nao,sul,4890.0
+46,masculino,33.345,1,nao,norte,8334.46
+36,feminino,29.92,1,nao,centro oeste,5478.04
+19,masculino,27.835,0,nao,sudeste,1635.73
+57,feminino,23.18,0,nao,norte,11830.61
+50,feminino,25.6,0,nao,nordeste,8932.08
+30,feminino,27.7,0,nao,nordeste,3554.2
+33,masculino,35.245,0,nao,sudeste,12404.88
+18,feminino,38.28,0,nao,sudeste,14133.04
+46,masculino,27.6,0,nao,centro oeste,24603.05
+46,masculino,43.89,3,nao,sudeste,8944.12
+47,masculino,29.83,3,nao,sudeste,9620.33
+23,masculino,41.91,0,nao,sudeste,1837.28
+18,feminino,20.79,0,nao,sul,1607.51
+48,feminino,32.3,2,nao,sudeste,10043.25
+35,masculino,30.5,1,nao,sul,4751.07
+19,feminino,21.7,0,sim,sul,13844.51
+21,feminino,26.4,1,nao,norte,2597.78
+21,feminino,21.89,2,nao,centro oeste,3180.51
+49,feminino,30.78,1,nao,norte,9778.35
+56,feminino,32.3,3,nao,centro oeste,13430.26
+42,feminino,24.985,2,nao,sudeste,8017.06
+44,masculino,32.015,2,nao,sul,8116.27
+18,masculino,30.4,3,nao,centro oeste,3481.87
+61,feminino,21.09,0,nao,sudeste,13415.04
+57,feminino,22.23,0,nao,nordeste,12029.29
+42,feminino,33.155,1,nao,sul,7639.42
+26,masculino,32.9,2,sim,norte,36085.22
+20,masculino,33.33,0,nao,sul,1391.53
+23,feminino,28.31,0,sim,sul,18033.97
+39,feminino,24.89,3,sim,sudeste,21659.93
+24,masculino,40.15,0,sim,sul,38126.25
+64,feminino,30.115,3,nao,norte,16455.71
+62,masculino,31.46,1,nao,sul,27000.98
+27,feminino,17.955,2,sim,sul,15006.58
+55,masculino,30.685,0,sim,norte,42303.69
+55,masculino,33.0,0,nao,nordeste,20781.49
+35,feminino,43.34,2,nao,sudeste,5846.92
+44,masculino,22.135,2,nao,sul,8302.54
+19,masculino,34.4,0,nao,sudeste,1261.86
+58,feminino,39.05,0,nao,nordeste,11856.41
+50,masculino,25.365,2,nao,centro oeste,30284.64
+26,feminino,22.61,0,nao,sudeste,3176.82
+24,feminino,30.21,3,nao,centro oeste,4618.08
+48,masculino,35.625,4,nao,sul,10736.87
+19,feminino,37.43,0,nao,nordeste,2138.07
+48,masculino,31.445,1,nao,sul,8964.06
+49,masculino,31.35,1,nao,sudeste,9290.14
+46,feminino,32.3,2,nao,nordeste,9411.0
+46,masculino,19.855,0,nao,sul,7526.71
+43,feminino,34.4,3,nao,sudeste,8522.0
+21,masculino,31.02,0,nao,centro oeste,16586.5
+64,masculino,25.6,2,nao,nordeste,14988.43
+18,feminino,38.17,0,nao,centro oeste,1631.67
+51,feminino,20.6,0,nao,norte,9264.8
+47,masculino,47.52,1,nao,centro oeste,8083.92
+64,feminino,32.965,0,nao,sul,14692.67
+49,masculino,32.3,3,nao,norte,10269.46
+31,masculino,20.4,0,nao,norte,3260.2
+52,feminino,38.38,2,nao,sudeste,11396.9
+33,feminino,24.31,0,nao,norte,4185.1
+47,feminino,23.6,1,nao,sul,8539.67
+38,masculino,21.12,3,nao,centro oeste,6652.53
+32,masculino,30.03,1,nao,centro oeste,4074.45
+19,masculino,17.48,0,nao,sul,1621.34
+44,feminino,20.235,1,sim,centro oeste,19594.81
+26,feminino,17.195,2,sim,sul,14455.64
+25,masculino,23.9,5,nao,norte,5080.1
+19,feminino,35.15,0,nao,sudeste,2134.9
+43,feminino,35.64,1,nao,sudeste,7345.73
+52,masculino,34.1,0,nao,sul,9140.95
+36,feminino,22.6,2,sim,sudeste,18608.26
+64,masculino,39.16,1,nao,sul,14418.28
+63,feminino,26.98,0,sim,nordeste,28950.47
+64,masculino,33.88,0,sim,sul,46889.26
+61,masculino,35.86,0,sim,centro oeste,46599.11
+40,masculino,32.775,1,sim,nordeste,39125.33
+25,masculino,30.59,0,nao,centro oeste,2727.4
+48,masculino,30.2,2,nao,centro oeste,8968.33
+45,masculino,24.31,5,nao,sudeste,9788.87
+38,feminino,27.265,1,nao,sudeste,6555.07
+18,feminino,29.165,0,nao,sudeste,7323.73
+21,feminino,16.815,1,nao,nordeste,3167.46
+27,feminino,30.4,3,nao,nordeste,18804.75
+19,masculino,33.1,0,nao,centro oeste,23082.96
+29,feminino,20.235,2,nao,centro oeste,4906.41
+42,masculino,26.9,0,nao,sul,5969.72
+60,feminino,30.5,0,nao,nordeste,12638.2
+31,masculino,28.595,1,nao,nordeste,4243.59
+60,masculino,33.11,3,nao,sul,13919.82
+22,masculino,31.73,0,nao,nordeste,2254.8
+35,masculino,28.9,3,nao,sul,5926.85
+52,feminino,46.75,5,nao,sudeste,12592.53
+26,masculino,29.45,0,nao,centro oeste,2897.32
+31,feminino,32.68,1,nao,nordeste,4738.27
+33,feminino,33.5,0,sim,sudeste,37079.37
+18,masculino,43.01,0,nao,norte,1149.4
+59,feminino,36.52,1,nao,nordeste,28287.9
+56,masculino,26.695,1,sim,centro oeste,26109.33
+45,feminino,33.1,0,nao,sudeste,7345.08
+60,masculino,29.64,0,nao,centro oeste,12731.0
+56,feminino,25.65,0,nao,nordeste,11454.02
+40,feminino,29.6,0,nao,sudeste,5910.94
+35,masculino,38.6,1,nao,sudeste,4762.33
+39,masculino,29.6,4,nao,sul,7512.27
+30,masculino,24.13,1,nao,sul,4032.24
+24,masculino,23.4,0,nao,centro oeste,1969.61
+20,masculino,29.735,0,nao,norte,1769.53
+32,masculino,46.53,2,nao,sudeste,4686.39
+59,masculino,37.4,0,nao,sul,21797.0
+55,feminino,30.14,2,nao,sul,11881.97
+57,feminino,30.495,0,nao,centro oeste,11840.78
+56,masculino,39.6,0,nao,sudeste,10601.41
+40,feminino,33.0,3,nao,sul,7682.67
+49,feminino,36.63,3,nao,sul,10381.48
+42,masculino,30.0,0,sim,norte,22144.03
+62,feminino,38.095,2,nao,sudeste,15230.32
+56,masculino,25.935,0,nao,sul,11165.42
+19,masculino,25.175,0,nao,nordeste,1632.04
+30,feminino,28.38,1,sim,norte,19521.97
+60,feminino,28.7,1,nao,centro oeste,13224.69
+56,feminino,33.82,2,nao,sul,12643.38
+28,feminino,24.32,1,nao,sul,23288.93
+18,feminino,24.09,1,nao,nordeste,2201.1
+27,masculino,32.67,0,nao,norte,2497.04
+18,feminino,30.115,0,nao,norte,2203.47
+19,feminino,29.8,0,nao,centro oeste,1744.46
+47,feminino,33.345,0,nao,nordeste,20878.78
+54,masculino,25.1,3,sim,nordeste,25382.3
+61,masculino,28.31,1,sim,sul,28868.66
+24,masculino,28.5,0,sim,norte,35147.53
+25,masculino,35.625,0,nao,norte,2534.39
+21,masculino,36.85,0,nao,norte,1534.3
+23,masculino,32.56,0,nao,nordeste,1824.29
+63,masculino,41.325,3,nao,sul,15555.19
+49,masculino,37.51,2,nao,nordeste,9304.7
+18,feminino,31.35,0,nao,centro oeste,1622.19
+51,feminino,39.5,1,nao,sul,9880.07
+48,masculino,34.3,3,nao,norte,9563.03
+31,feminino,31.065,0,nao,norte,4347.02
+54,feminino,21.47,3,nao,centro oeste,12475.35
+19,masculino,28.7,0,nao,sudeste,1253.94
+44,feminino,38.06,0,sim,sudeste,48885.14
+53,masculino,31.16,1,nao,sudeste,10461.98
+19,feminino,32.9,0,nao,nordeste,1748.77
+61,feminino,25.08,0,nao,centro oeste,24513.09
+18,feminino,25.08,0,nao,nordeste,2196.47
+61,masculino,43.4,0,nao,centro oeste,12574.05
+21,masculino,25.7,4,sim,nordeste,17942.11
+20,masculino,27.93,0,nao,sul,1967.02
+31,feminino,23.6,2,nao,nordeste,4931.65
+45,masculino,28.7,2,nao,sudeste,8027.97
+44,feminino,23.98,2,nao,sudeste,8211.1
+62,feminino,39.2,0,nao,norte,13470.86
+29,masculino,34.4,0,sim,sul,36197.7
+43,masculino,26.03,0,nao,nordeste,6837.37
+51,masculino,23.21,1,sim,centro oeste,22218.11
+19,masculino,30.25,0,sim,sul,32548.34
+38,feminino,28.93,1,nao,sudeste,5974.38
+37,masculino,30.875,3,nao,nordeste,6796.86
+22,masculino,31.35,1,nao,centro oeste,2643.27
+21,masculino,23.75,2,nao,nordeste,3077.1
+24,feminino,25.27,0,nao,sul,3044.21
+57,feminino,28.7,0,nao,norte,11455.28
+56,masculino,32.11,1,nao,nordeste,11763.0
+27,masculino,33.66,0,nao,centro oeste,2498.41
+51,masculino,22.42,0,nao,sudeste,9361.33
+19,masculino,30.4,0,nao,sudeste,1256.3
+39,masculino,28.3,1,sim,sudeste,21082.16
+58,masculino,35.7,0,nao,centro oeste,11362.76
+20,masculino,35.31,1,nao,norte,27724.29
+45,masculino,30.495,2,nao,nordeste,8413.46
+35,feminino,31.0,1,nao,norte,5240.77
+31,masculino,30.875,0,nao,centro oeste,3857.76
+50,feminino,27.36,0,nao,sudeste,25656.58
+32,feminino,44.22,0,nao,norte,3994.18
+51,feminino,33.915,0,nao,nordeste,9866.3
+38,feminino,37.73,0,nao,sudeste,5397.62
+42,masculino,26.07,1,sim,sudeste,38245.59
+18,feminino,33.88,0,nao,centro oeste,11482.63
+19,feminino,30.59,2,nao,sul,24059.68
+51,feminino,25.8,1,nao,sudeste,9861.02
+46,masculino,39.425,1,nao,sudeste,8342.91
+18,masculino,25.46,0,nao,norte,1708.0
+57,masculino,42.13,1,sim,nordeste,48675.52
+62,feminino,31.73,0,nao,sudeste,14043.48
+59,masculino,29.7,2,nao,sul,12925.89
+37,masculino,36.19,0,nao,sul,19214.71
+64,masculino,40.48,0,nao,sul,13831.12
+38,masculino,28.025,1,nao,sul,6067.13
+33,feminino,38.9,3,nao,nordeste,5972.38
+46,feminino,30.2,2,nao,nordeste,8825.09
+46,feminino,28.05,1,nao,nordeste,8233.1
+53,masculino,31.35,0,nao,sudeste,27346.04
+34,feminino,38.0,3,nao,sudeste,6196.45
+20,feminino,31.79,2,nao,sul,3056.39
+63,feminino,36.3,0,nao,sul,13887.2
+54,feminino,47.41,0,sim,nordeste,63770.43
+54,masculino,30.21,0,nao,norte,10231.5
+49,masculino,25.84,2,sim,norte,23807.24
+28,masculino,35.435,0,nao,sul,3268.85
+54,feminino,46.7,2,nao,sul,11538.42
+25,feminino,28.595,0,nao,norte,3213.62
+43,feminino,46.2,0,sim,norte,45863.2
+63,masculino,30.8,0,nao,sul,13390.56
+32,feminino,28.93,0,nao,norte,3972.92
+62,masculino,21.4,0,nao,sudeste,12957.12
+52,feminino,31.73,2,nao,centro oeste,11187.66
+25,feminino,41.325,0,nao,centro oeste,17878.9
+28,masculino,23.8,2,nao,sudeste,3847.67
+46,masculino,33.44,1,nao,centro oeste,8334.59
+34,masculino,34.21,0,nao,sudeste,3935.18
+35,feminino,34.105,3,sim,sul,39983.43
+19,masculino,35.53,0,nao,sudeste,1646.43
+46,feminino,19.95,2,nao,centro oeste,9193.84
+54,feminino,32.68,0,nao,sul,10923.93
+27,masculino,30.5,0,nao,sul,2494.02
+50,masculino,44.77,1,nao,sudeste,9058.73
+18,feminino,32.12,2,nao,sudeste,2801.26
+19,feminino,30.495,0,nao,sul,2128.43
+38,feminino,40.565,1,nao,norte,6373.56
+41,masculino,30.59,2,nao,sul,7256.72
+49,feminino,31.9,5,nao,norte,11552.9
+48,masculino,40.565,2,sim,sul,45702.02
+31,feminino,29.1,0,nao,norte,3761.29
+18,feminino,37.29,1,nao,norte,2219.45
+30,feminino,43.12,2,nao,norte,4753.64
+62,feminino,36.86,1,nao,sul,31620.0
+57,feminino,34.295,2,nao,sul,13224.06
+58,feminino,27.17,0,nao,centro oeste,12222.9
+22,masculino,26.84,0,nao,centro oeste,1665.0
+31,feminino,38.095,1,sim,sudeste,58571.07
+52,masculino,30.2,1,nao,nordeste,9724.53
+25,feminino,23.465,0,nao,sudeste,3206.49
+59,masculino,25.46,1,nao,sudeste,12913.99
+19,masculino,30.59,0,nao,nordeste,1639.56
+39,masculino,45.43,2,nao,nordeste,6356.27
+32,feminino,23.65,1,nao,norte,17626.24
+19,masculino,20.7,0,nao,sul,1242.82
+33,feminino,28.27,1,nao,nordeste,4779.6
+21,masculino,20.235,3,nao,norte,3861.21
+34,feminino,30.21,1,sim,sul,43943.88
+61,feminino,35.91,0,nao,sul,13635.64
+38,feminino,30.69,1,nao,centro oeste,5976.83
+58,feminino,29.0,0,nao,sudeste,11842.44
+47,masculino,19.57,1,nao,centro oeste,8428.07
+20,masculino,31.13,2,nao,sudeste,2566.47
+21,feminino,21.85,1,sim,norte,15359.1
+41,masculino,40.26,0,nao,centro oeste,5709.16
+46,feminino,33.725,1,nao,sul,8823.99
+42,feminino,29.48,2,nao,nordeste,7640.31
+34,feminino,33.25,1,nao,nordeste,5594.85
+43,masculino,32.6,2,nao,nordeste,7441.5
+52,feminino,37.525,2,nao,sudeste,33471.97
+18,feminino,39.16,0,nao,sudeste,1633.04
+51,masculino,31.635,0,nao,norte,9174.14
+56,feminino,25.3,0,nao,nordeste,11070.54
+64,feminino,39.05,3,nao,sul,16085.13
+19,feminino,28.31,0,sim,norte,17468.98
+51,feminino,34.1,0,nao,norte,9283.56
+27,feminino,25.175,0,nao,nordeste,3558.62
+59,feminino,23.655,0,sim,centro oeste,25678.78
+28,masculino,26.98,2,nao,sudeste,4435.09
+30,masculino,37.8,2,sim,centro oeste,39241.44
+47,feminino,29.37,1,nao,nordeste,8547.69
+38,feminino,34.8,2,nao,sudeste,6571.54
+18,feminino,33.155,0,nao,norte,2207.7
+34,feminino,19.0,3,nao,sudeste,6753.04
+20,feminino,33.0,0,nao,sul,1880.07
+47,feminino,36.63,1,sim,nordeste,42969.85
+56,feminino,28.595,0,nao,nordeste,11658.12
+49,masculino,25.6,2,sim,sudeste,23306.55
+19,feminino,33.11,0,sim,nordeste,34439.86
+55,feminino,37.1,0,nao,nordeste,10713.64
+30,masculino,31.4,1,nao,sul,3659.35
+37,masculino,34.1,4,sim,nordeste,40182.25
+49,feminino,21.3,1,nao,nordeste,9182.17
+18,masculino,33.535,0,sim,sudeste,34617.84
+59,masculino,28.785,0,nao,sudeste,12129.61
+29,feminino,26.03,0,nao,sul,3736.46
+36,masculino,28.88,3,nao,nordeste,6748.59
+33,masculino,42.46,1,nao,nordeste,11326.71
+58,masculino,38.0,0,nao,norte,11365.95
+44,feminino,38.95,0,sim,sudeste,42983.46
+53,masculino,36.1,1,nao,nordeste,10085.85
+24,masculino,29.3,0,nao,norte,1977.82
+29,feminino,35.53,0,nao,centro oeste,3366.67
+40,masculino,22.705,2,nao,nordeste,7173.36
+51,masculino,39.7,1,nao,norte,9391.35
+64,masculino,38.19,0,nao,nordeste,14410.93
+19,feminino,24.51,1,nao,sul,2709.11
+35,feminino,38.095,2,nao,norte,24915.05
+39,masculino,26.41,0,sim,centro oeste,20149.32
+56,masculino,33.66,4,nao,sul,12949.16
+33,masculino,42.4,5,nao,sudeste,6666.24
+42,masculino,28.31,3,sim,centro oeste,32787.46
+61,masculino,33.915,0,nao,nordeste,13143.86
+23,feminino,34.96,3,nao,norte,4466.62
+43,masculino,35.31,2,nao,norte,18806.15
+48,masculino,30.78,3,nao,nordeste,10141.14
+39,masculino,26.22,1,nao,centro oeste,6123.57
+40,feminino,23.37,3,nao,nordeste,8252.28
+18,masculino,28.5,0,nao,nordeste,1712.23
+58,feminino,32.965,0,nao,norte,12430.95
+49,feminino,42.68,2,nao,norte,9800.89
+53,feminino,39.6,1,nao,nordeste,10579.71
+48,feminino,31.13,0,nao,sul,8280.62
+45,feminino,36.3,2,nao,nordeste,8527.53
+59,feminino,35.2,0,nao,nordeste,12244.53
+52,feminino,25.3,2,sim,sudeste,24667.42
+26,feminino,42.4,1,nao,sudeste,3410.32
+27,masculino,33.155,2,nao,sudeste,4058.71
+48,feminino,35.91,1,nao,centro oeste,26392.26
+57,feminino,28.785,4,nao,nordeste,14394.4
+37,masculino,46.53,3,nao,nordeste,6435.62
+57,feminino,23.98,1,nao,nordeste,22192.44
+32,feminino,31.54,1,nao,centro oeste,5148.55
+18,masculino,33.66,0,nao,sudeste,1136.4
+64,feminino,22.99,0,sim,norte,27037.91
+43,masculino,38.06,2,sim,centro oeste,42560.43
+49,masculino,28.7,1,nao,centro oeste,8703.46
+40,feminino,32.775,2,sim,sudeste,40003.33
+62,masculino,32.015,0,sim,sudeste,45710.21
+40,feminino,29.81,1,nao,sudeste,6500.24
+30,masculino,31.57,3,nao,sul,4837.58
+29,feminino,31.16,0,nao,centro oeste,3943.6
+36,masculino,29.7,0,nao,nordeste,4399.73
+41,feminino,31.02,0,nao,nordeste,6185.32
+44,feminino,43.89,2,sim,norte,46200.99
+45,masculino,21.375,0,nao,sul,7222.79
+55,feminino,40.81,3,nao,norte,12485.8
+60,masculino,31.35,3,sim,centro oeste,46130.53
+56,masculino,36.1,3,nao,norte,12363.55
+49,feminino,23.18,2,nao,centro oeste,10156.78
+21,feminino,17.4,1,nao,sul,2585.27
+19,masculino,20.3,0,nao,sudeste,1242.26
+39,masculino,35.3,2,sim,nordeste,40103.89
+53,masculino,24.32,0,nao,centro oeste,9863.47
+33,feminino,18.5,1,nao,norte,4766.02
+53,masculino,26.41,2,nao,sul,11244.38
+42,masculino,26.125,2,nao,nordeste,7729.65
+40,masculino,41.69,0,nao,nordeste,5438.75
+47,feminino,24.1,1,nao,norte,26236.58
+27,masculino,31.13,1,sim,centro oeste,34806.47
+21,masculino,27.36,0,nao,centro oeste,2104.11
+47,masculino,36.2,1,nao,sul,8068.18
+20,masculino,32.395,1,nao,sul,2362.23
+24,masculino,23.655,0,nao,centro oeste,2352.97
+27,feminino,34.8,1,nao,sudeste,3578.0
+26,feminino,40.185,0,nao,nordeste,3201.25
+53,feminino,32.3,2,nao,norte,29186.48
+41,masculino,35.75,1,sim,nordeste,40273.65
+56,masculino,33.725,0,nao,norte,10976.25
+23,feminino,39.27,2,nao,norte,3500.61
+21,feminino,34.87,0,nao,sul,2020.55
+50,feminino,44.745,0,nao,nordeste,9541.7
+53,masculino,41.47,0,nao,nordeste,9504.31
+34,feminino,26.41,1,nao,norte,5385.34
+47,feminino,29.545,1,nao,nordeste,8930.93
+33,feminino,32.9,2,nao,nordeste,5375.04
+51,feminino,38.06,0,sim,sul,44400.41
+49,masculino,28.69,3,nao,norte,10264.44
+31,feminino,30.495,3,nao,norte,6113.23
+36,feminino,27.74,0,nao,nordeste,5469.01
+18,masculino,35.2,1,nao,sudeste,1727.54
+50,feminino,23.54,2,nao,nordeste,10107.22
+43,feminino,30.685,2,nao,centro oeste,8310.84
+20,masculino,40.47,0,nao,sudeste,1984.45
+24,feminino,22.6,0,nao,norte,2457.5
+60,masculino,28.9,0,nao,sul,12146.97
+49,feminino,22.61,1,nao,sul,9566.99
+60,masculino,24.32,1,nao,centro oeste,13112.6
+51,feminino,36.67,2,nao,norte,10848.13
+58,feminino,33.44,0,nao,sudeste,12231.61
+51,feminino,40.66,0,nao,sudeste,9875.68
+53,masculino,36.6,3,nao,centro oeste,11264.54
+62,masculino,37.4,0,nao,sudeste,12979.36
+19,masculino,35.4,0,nao,sul,1263.25
+50,feminino,27.075,1,nao,nordeste,10106.13
+30,feminino,39.05,3,sim,sul,40932.43
+41,masculino,28.405,1,nao,sudeste,6664.69
+29,feminino,21.755,1,sim,sudeste,16657.72
+18,feminino,40.28,0,nao,sul,2217.6
+41,feminino,36.08,1,nao,sul,6781.35
+35,masculino,24.42,3,sim,nordeste,19362.0
+53,masculino,21.4,1,nao,centro oeste,10065.41
+24,feminino,30.1,3,nao,sul,4234.93
+48,feminino,27.265,1,nao,sudeste,9447.25
+59,feminino,32.1,3,nao,nordeste,14007.22
+49,feminino,34.77,1,nao,norte,9583.89
+37,feminino,38.39,0,sim,nordeste,40419.02
+26,masculino,23.7,2,nao,sul,3484.33
+23,masculino,31.73,3,sim,norte,36189.1
+29,masculino,35.5,2,sim,centro oeste,44585.46
+45,masculino,24.035,2,nao,sul,8604.48
+27,masculino,29.15,0,sim,nordeste,18246.5
+53,masculino,34.105,0,sim,centro oeste,43254.42
+31,feminino,26.62,0,nao,sul,3757.84
+50,masculino,26.41,0,nao,sudeste,8827.21
+50,feminino,30.115,1,nao,sudeste,9910.36
+34,masculino,27.0,2,nao,sul,11737.85
+19,masculino,21.755,0,nao,centro oeste,1627.28
+47,feminino,36.0,1,nao,norte,8556.91
+28,masculino,30.875,0,nao,sul,3062.51
+37,feminino,26.4,0,sim,nordeste,19539.24
+21,masculino,28.975,0,nao,sudeste,1906.36
+64,masculino,37.905,0,nao,nordeste,14210.54
+58,feminino,22.77,0,nao,sul,11833.78
+24,masculino,33.63,4,nao,centro oeste,17128.43
+31,masculino,27.645,2,nao,centro oeste,5031.27
+39,feminino,22.8,3,nao,sudeste,7985.82
+47,feminino,27.83,0,sim,sul,23065.42
+30,masculino,37.43,3,nao,centro oeste,5428.73
+18,masculino,38.17,0,sim,sul,36307.8
+22,feminino,34.58,2,nao,nordeste,3925.76
+23,masculino,35.2,1,nao,sudeste,2416.96
+33,masculino,27.1,1,sim,sul,19040.88
+27,masculino,26.03,0,nao,nordeste,3070.81
+45,feminino,25.175,2,nao,nordeste,9095.07
+57,feminino,31.825,0,nao,sul,11842.62
+47,masculino,32.3,1,nao,centro oeste,8062.76
+42,feminino,29.0,1,nao,sul,7050.64
+64,feminino,39.7,0,nao,nordeste,14319.03
+38,feminino,19.475,2,nao,centro oeste,6933.24
+61,masculino,36.1,3,nao,norte,27941.29
+53,feminino,26.7,2,nao,norte,11150.78
+44,feminino,36.48,0,nao,sul,12797.21
+19,feminino,28.88,0,sim,sudeste,17748.51
+41,masculino,34.2,2,nao,norte,7261.74
+51,masculino,33.33,3,nao,nordeste,10560.49
+40,masculino,32.3,2,nao,sul,6986.7
+45,masculino,39.805,0,nao,sul,7448.4
+35,masculino,34.32,3,nao,centro oeste,5934.38
+53,masculino,28.88,0,nao,sudeste,9869.81
+30,masculino,24.4,3,sim,centro oeste,18259.22
+18,masculino,41.14,0,nao,sudeste,1146.8
+51,masculino,35.97,1,nao,centro oeste,9386.16
+50,feminino,27.6,1,sim,sul,24520.26
+31,feminino,29.26,1,nao,sul,4350.51
+35,feminino,27.7,3,nao,sudeste,6414.18
+60,masculino,36.955,0,nao,centro oeste,12741.17
+21,masculino,36.86,0,nao,sudeste,1917.32
+29,masculino,22.515,3,nao,centro oeste,5209.58
+62,feminino,29.92,0,nao,sudeste,13457.96
+39,feminino,41.8,0,nao,centro oeste,5662.22
+19,masculino,27.6,0,nao,centro oeste,1252.41
+22,feminino,23.18,0,nao,nordeste,2731.91
+53,masculino,20.9,0,sim,nordeste,21195.82
+39,feminino,31.92,2,nao,nordeste,7209.49
+27,masculino,28.5,0,sim,centro oeste,18310.74
+30,masculino,44.22,2,nao,centro oeste,4266.17
+30,feminino,22.895,1,nao,norte,4719.52
+58,feminino,33.1,0,nao,nordeste,11848.14
+33,masculino,24.795,0,sim,centro oeste,17904.53
+42,feminino,26.18,1,nao,sudeste,7046.72
+64,feminino,35.97,0,nao,norte,14313.85
+21,masculino,22.3,1,nao,sudeste,2103.08
+18,feminino,42.24,0,sim,nordeste,38792.69
+23,masculino,26.51,0,nao,sudeste,1815.88
+45,feminino,35.815,0,nao,sudeste,7731.86
+40,feminino,41.42,1,nao,centro oeste,28476.73
+19,feminino,36.575,0,nao,norte,2136.88
+18,masculino,30.14,0,nao,nordeste,1131.51
+25,masculino,25.84,1,nao,nordeste,3309.79
+46,feminino,30.8,3,nao,nordeste,9414.92
+33,feminino,42.94,3,nao,nordeste,6360.99
+54,masculino,21.01,2,nao,norte,11013.71
+28,masculino,22.515,2,nao,nordeste,4428.89
+36,masculino,34.43,2,nao,norte,5584.31
+20,feminino,31.46,0,nao,centro oeste,1877.93
+24,feminino,24.225,0,nao,nordeste,2842.76
+23,masculino,37.1,3,nao,norte,3597.6
+47,feminino,26.125,1,sim,sul,23401.31
+33,feminino,35.53,0,sim,sudeste,55135.4
+45,masculino,33.7,1,nao,centro oeste,7445.92
+26,masculino,17.67,0,nao,norte,2680.95
+18,feminino,31.13,0,nao,nordeste,1621.88
+44,feminino,29.81,2,nao,nordeste,8219.2
+60,masculino,24.32,0,nao,sudeste,12523.6
+64,feminino,31.825,2,nao,norte,16069.08
+56,masculino,31.79,2,sim,norte,43813.87
+36,masculino,28.025,1,sim,nordeste,20773.63
+41,masculino,30.78,3,sim,sul,39597.41
+39,masculino,21.85,1,nao,nordeste,6117.49
+63,masculino,33.1,0,nao,sul,13393.76
+36,feminino,25.84,0,nao,norte,5266.37
+28,feminino,23.845,2,nao,sul,4719.74
+58,masculino,34.39,0,nao,centro oeste,11743.93
+36,masculino,33.82,1,nao,sudeste,5377.46
+42,masculino,35.97,2,nao,centro oeste,7160.33
+36,masculino,31.5,0,nao,sul,4402.23
+56,feminino,28.31,0,nao,sudeste,11657.72
+35,feminino,23.465,2,nao,sul,6402.29
+59,feminino,31.35,0,nao,sul,12622.18
+21,masculino,31.1,0,nao,sudeste,1526.31
+59,masculino,24.7,0,nao,nordeste,12323.94
+23,feminino,32.78,2,sim,sudeste,36021.01
+57,feminino,29.81,0,sim,sul,27533.91
+53,masculino,30.495,0,nao,sul,10072.06
+60,feminino,32.45,0,sim,norte,45008.96
+51,feminino,34.2,1,nao,sul,9872.7
+23,masculino,50.38,1,nao,sudeste,2438.06
+27,feminino,24.1,0,nao,centro oeste,2974.13
+55,masculino,32.775,0,nao,sul,10601.63
+37,feminino,30.78,0,sim,nordeste,37270.15
+61,masculino,32.3,2,nao,sul,14119.62
+46,feminino,35.53,0,sim,sul,42111.66
+53,feminino,23.75,2,nao,nordeste,11729.68
+49,feminino,23.845,3,sim,norte,24106.91
+20,feminino,29.6,0,nao,nordeste,1875.34
+48,feminino,33.11,0,sim,sul,40974.16
+25,masculino,24.13,0,sim,centro oeste,15817.99
+25,feminino,32.23,1,nao,sudeste,18218.16
+57,masculino,28.1,0,nao,norte,10965.45
+37,feminino,47.6,2,sim,sudeste,46113.51
+38,feminino,28.0,3,nao,sul,7151.09
+55,feminino,33.535,2,nao,norte,12269.69
+36,feminino,19.855,0,nao,centro oeste,5458.05
+51,masculino,25.4,0,nao,nordeste,8782.47
+40,masculino,29.9,2,nao,sul,6600.36
+18,masculino,37.29,0,nao,nordeste,1141.45
+57,masculino,43.7,1,nao,nordeste,11576.13
+61,masculino,23.655,0,nao,sul,13129.6
+25,feminino,24.3,3,nao,sudeste,4391.65
+50,masculino,36.2,0,nao,sudeste,8457.82
+26,feminino,29.48,1,nao,nordeste,3392.37
+42,masculino,24.86,0,nao,norte,5966.89
+43,masculino,30.1,1,nao,sul,6849.03
+44,masculino,21.85,3,nao,centro oeste,8891.14
+23,feminino,28.12,0,nao,sul,2690.11
+49,feminino,27.1,1,nao,norte,26140.36
+33,masculino,33.44,5,nao,norte,6653.79
+41,masculino,28.8,1,nao,centro oeste,6282.24
+37,feminino,29.5,2,nao,sudeste,6311.95
+22,masculino,34.8,3,nao,sudeste,3443.06
+23,masculino,27.36,1,nao,norte,2789.06
+21,feminino,22.135,0,nao,norte,2585.85
+51,feminino,37.05,3,sim,centro oeste,46255.11
+25,masculino,26.695,4,nao,nordeste,4877.98
+32,masculino,28.93,1,sim,nordeste,19719.69
+57,masculino,28.975,0,sim,centro oeste,27218.44
+36,feminino,30.02,0,nao,sudeste,5272.18
+22,masculino,39.5,0,nao,norte,1682.6
+57,masculino,33.63,1,nao,sudeste,11945.13
+64,feminino,26.885,0,sim,centro oeste,29330.98
+36,feminino,29.04,4,nao,nordeste,7243.81
+54,masculino,24.035,0,nao,sul,10422.92
+47,masculino,38.94,2,sim,nordeste,44202.65
+62,masculino,32.11,0,nao,sul,13555.0
+61,feminino,44.0,0,nao,nordeste,13063.88
+43,feminino,20.045,2,sim,centro oeste,19798.05
+19,masculino,25.555,1,nao,centro oeste,2221.56
+18,feminino,40.26,0,nao,sul,1634.57
+19,feminino,22.515,0,nao,sudeste,2117.34
+49,masculino,22.515,0,nao,norte,8688.86
+60,masculino,40.92,0,sim,sudeste,48673.56
+26,masculino,27.265,3,nao,norte,4661.29
+49,masculino,36.85,0,nao,nordeste,8125.78
+60,feminino,35.1,0,nao,nordeste,12644.59
+26,feminino,29.355,2,nao,sul,4564.19
+27,masculino,32.585,3,nao,nordeste,4846.92
+44,feminino,32.34,1,nao,sudeste,7633.72
+63,masculino,39.8,3,nao,norte,15170.07
+32,feminino,24.6,0,sim,sudeste,17496.31
+22,masculino,28.31,1,nao,centro oeste,2639.04
+18,masculino,31.73,0,sim,norte,33732.69
+59,feminino,26.695,3,nao,norte,14382.71
+44,feminino,27.5,1,nao,nordeste,7626.99
+33,masculino,24.605,2,nao,nordeste,5257.51
+24,feminino,33.99,0,nao,nordeste,2473.33
+43,feminino,26.885,0,sim,sudeste,21774.32
+45,masculino,22.895,0,sim,centro oeste,35069.37
+61,feminino,28.2,0,nao,sul,13041.92
+35,feminino,34.21,1,nao,sudeste,5245.23
+62,feminino,25.0,0,nao,nordeste,13451.12
+62,feminino,33.2,0,nao,norte,13462.52
+38,masculino,31.0,1,nao,centro oeste,5488.26
+34,masculino,35.815,0,nao,nordeste,4320.41
+43,masculino,23.2,0,nao,sul,6250.44
+50,masculino,32.11,2,nao,sul,25333.33
+19,feminino,23.4,2,nao,sudeste,2913.57
+57,feminino,20.1,1,nao,nordeste,12032.33
+62,feminino,39.16,0,nao,nordeste,13470.8
+41,masculino,34.21,1,nao,sudeste,6289.75
+26,masculino,46.53,1,nao,centro oeste,2927.06
+39,feminino,32.5,1,nao,norte,6238.3
+46,masculino,25.8,5,nao,sul,10096.97
+45,feminino,35.3,0,nao,sudeste,7348.14
+32,masculino,37.18,2,nao,centro oeste,4673.39
+59,feminino,27.5,0,nao,nordeste,12233.83
+44,masculino,29.735,2,nao,sudeste,32108.66
+39,feminino,24.225,5,nao,centro oeste,8965.8
+18,masculino,26.18,2,nao,sul,2304.0
+53,masculino,29.48,0,nao,nordeste,9487.64
+18,masculino,23.21,0,nao,norte,1121.87
+50,feminino,46.09,1,nao,centro oeste,9549.57
+18,feminino,40.185,0,nao,norte,2217.47
+19,masculino,22.61,0,nao,sul,1628.47
+62,masculino,39.93,0,nao,norte,12982.87
+56,feminino,35.8,1,nao,sul,11674.13
+42,masculino,35.8,2,nao,centro oeste,7160.09
+37,masculino,34.2,1,sim,centro oeste,39047.29
+42,masculino,31.255,0,nao,nordeste,6358.78
+25,masculino,29.7,3,sim,norte,19933.46
+57,masculino,18.335,0,nao,norte,11534.87
+51,masculino,42.9,2,sim,sudeste,47462.89
+30,feminino,28.405,1,nao,centro oeste,4527.18
+44,masculino,30.2,2,sim,centro oeste,38998.55
+34,masculino,27.835,1,sim,centro oeste,20009.63
+31,masculino,39.49,1,nao,nordeste,3875.73
+54,masculino,30.8,1,sim,sudeste,41999.52
+24,masculino,26.79,1,nao,sul,12609.89
+43,masculino,34.96,1,sim,sudeste,41034.22
+48,masculino,36.67,1,nao,sudeste,28468.92
+19,feminino,39.615,1,nao,nordeste,2730.11
+29,feminino,25.9,0,nao,centro oeste,3353.28
+63,feminino,35.2,1,nao,sudeste,14474.68
+46,masculino,24.795,3,nao,norte,9500.57
+52,masculino,36.765,2,nao,sudeste,26467.1
+35,masculino,27.1,1,nao,norte,4746.34
+51,masculino,24.795,2,sim,nordeste,23967.38
+44,masculino,25.365,1,nao,nordeste,7518.03
+21,masculino,25.745,2,nao,sul,3279.87
+39,feminino,34.32,5,nao,norte,8596.83
+50,feminino,28.16,3,nao,centro oeste,10702.64
+34,feminino,23.56,0,nao,nordeste,4992.38
+22,feminino,20.235,0,nao,nordeste,2527.82
+19,feminino,40.5,0,nao,sul,1759.34
+26,masculino,35.42,0,nao,nordeste,2322.62
+29,masculino,22.895,0,sim,norte,16138.76
+48,masculino,40.15,0,nao,centro oeste,7804.16
+26,masculino,29.15,1,nao,sul,2902.91
+45,feminino,39.995,3,nao,norte,9704.67
+36,feminino,29.92,0,nao,centro oeste,4889.04
+54,masculino,25.46,1,nao,centro oeste,25517.11
+34,masculino,21.375,0,nao,nordeste,4500.34
+31,masculino,25.9,3,sim,sul,19199.94
+27,feminino,30.59,1,nao,centro oeste,16796.41
+20,masculino,30.115,5,nao,sudeste,4915.06
+44,feminino,25.8,1,nao,sul,7624.63
+43,masculino,30.115,3,nao,sul,8410.05
+45,feminino,27.645,1,nao,nordeste,28340.19
+34,masculino,34.675,0,nao,centro oeste,4518.83
+24,feminino,20.52,0,sim,centro oeste,14571.89
+26,feminino,19.8,1,nao,sul,3378.91
+38,feminino,27.835,2,nao,norte,7144.86
+50,feminino,31.6,2,nao,nordeste,10118.42
+38,masculino,28.27,1,nao,sul,5484.47
+27,feminino,20.045,3,sim,sudeste,16420.49
+39,feminino,23.275,3,nao,norte,7986.48
+39,feminino,34.1,3,nao,nordeste,7418.52
+63,feminino,36.85,0,nao,nordeste,13887.97
+33,feminino,36.29,3,nao,nordeste,6551.75
+36,feminino,26.885,0,nao,sul,5267.82
+30,masculino,22.99,2,sim,norte,17361.77
+24,masculino,32.7,0,sim,norte,34472.84
+24,masculino,25.8,0,nao,sudeste,1972.95
+48,masculino,29.6,0,nao,sul,21232.18
+47,masculino,19.19,1,nao,sul,8627.54
+29,masculino,31.73,2,nao,norte,4433.39
+28,masculino,29.26,2,nao,nordeste,4438.26
+47,masculino,28.215,3,sim,sudeste,24915.22
+25,masculino,24.985,2,nao,sul,23241.47
+51,masculino,27.74,1,nao,sudeste,9957.72
+48,feminino,22.8,0,nao,nordeste,8269.04
+43,masculino,20.13,2,sim,nordeste,18767.74
+61,feminino,33.33,4,nao,norte,36580.28
+48,masculino,32.3,1,nao,norte,8765.25
+38,feminino,27.6,0,nao,sul,5383.54
+59,masculino,25.46,0,nao,sul,12124.99
+19,feminino,24.605,1,nao,nordeste,2709.24
+26,feminino,34.2,2,nao,nordeste,3987.93
+54,feminino,35.815,3,nao,centro oeste,12495.29
+21,feminino,32.68,2,nao,nordeste,26018.95
+51,masculino,37.0,0,nao,norte,8798.59
+22,feminino,31.02,3,sim,sudeste,35595.59
+47,masculino,36.08,1,sim,nordeste,42211.14
+18,masculino,23.32,1,nao,nordeste,1711.03
+47,feminino,45.32,1,nao,nordeste,8569.86
+21,feminino,34.6,0,nao,sul,2020.18
+19,masculino,26.03,1,sim,centro oeste,16450.89
+23,masculino,18.715,0,nao,centro oeste,21595.38
+54,masculino,31.6,0,nao,norte,9850.43
+37,feminino,17.29,2,nao,sul,6877.98
+46,feminino,23.655,1,sim,norte,21677.28
+55,feminino,35.2,0,sim,sul,44423.8
+30,feminino,27.93,0,nao,nordeste,4137.52
+18,masculino,21.565,0,sim,nordeste,13747.87
+61,masculino,38.38,0,nao,norte,12950.07
+54,feminino,23.0,3,nao,norte,12094.48
+22,masculino,37.07,2,sim,sudeste,37484.45
+45,feminino,30.495,1,sim,centro oeste,39725.52
+22,masculino,28.88,0,nao,sudeste,2250.84
+19,masculino,27.265,2,nao,nordeste,22493.66
+35,feminino,28.025,0,sim,norte,20234.85
+18,masculino,23.085,0,nao,norte,1704.7
+20,masculino,30.685,0,sim,sudeste,33475.82
+28,feminino,25.8,0,nao,sul,3161.45
+55,masculino,35.245,1,nao,sudeste,11394.07
+43,feminino,24.7,2,sim,sul,21880.82
+43,feminino,25.08,0,nao,norte,7325.05
+22,masculino,52.58,1,sim,centro oeste,44501.4
+25,feminino,22.515,1,nao,centro oeste,3594.17
+49,masculino,30.9,0,sim,nordeste,39727.61
+44,feminino,36.955,1,nao,sudeste,8023.14
+64,masculino,26.41,0,nao,sudeste,14394.56
+49,masculino,29.83,1,nao,sul,9288.03
+47,masculino,29.8,3,sim,sudeste,25309.49
+27,feminino,21.47,0,nao,norte,3353.47
+55,masculino,27.645,0,nao,centro oeste,10594.5
+48,feminino,28.9,0,nao,sul,8277.52
+45,feminino,31.79,0,nao,sudeste,17929.3
+24,feminino,39.49,0,nao,sul,2480.98
+32,masculino,33.82,1,nao,sul,4462.72
+24,masculino,32.01,0,nao,nordeste,1981.58
+57,masculino,27.94,1,nao,sudeste,11554.22
+59,masculino,41.14,1,sim,norte,48970.25
+36,masculino,28.595,3,nao,sudeste,6548.2
+29,feminino,25.6,4,nao,centro oeste,5708.87
+42,feminino,25.3,1,nao,centro oeste,7045.5
+48,masculino,37.29,2,nao,sudeste,8978.19
+39,masculino,42.655,0,nao,nordeste,5757.41
+63,masculino,21.66,1,nao,norte,14349.85
+54,feminino,31.9,1,nao,norte,10928.85
+37,masculino,37.07,1,sim,norte,39871.7
+63,masculino,31.445,0,nao,nordeste,13974.46
+21,masculino,31.255,0,nao,norte,1909.53
+54,feminino,28.88,2,nao,centro oeste,12096.65
+60,feminino,18.335,0,nao,centro oeste,13204.29
+32,feminino,29.59,1,nao,norte,4562.84
+47,feminino,32.0,1,nao,centro oeste,8551.35
+21,masculino,26.03,0,nao,centro oeste,2102.26
+28,masculino,31.68,0,sim,sudeste,34672.15
+63,masculino,33.66,3,nao,norte,15161.53
+18,masculino,21.78,2,nao,centro oeste,11884.05
+32,masculino,27.835,1,nao,sudeste,4454.4
+38,masculino,19.95,1,nao,sul,5855.9
+32,masculino,31.5,1,nao,centro oeste,4076.5
+62,feminino,30.495,2,nao,nordeste,15019.76
+39,feminino,18.3,5,sim,sudeste,19023.26
+55,masculino,28.975,0,nao,centro oeste,10796.35
+57,masculino,31.54,0,nao,centro oeste,11353.23
+52,masculino,47.74,1,nao,sudeste,9748.91
+56,masculino,22.1,0,nao,centro oeste,10577.09
+47,masculino,36.19,0,sim,centro oeste,41676.08
+55,feminino,29.83,0,nao,centro oeste,11286.54
+23,masculino,32.7,3,nao,sudeste,3591.48
+22,feminino,30.4,0,sim,sudeste,33907.55
+50,feminino,33.7,4,nao,norte,11299.34
+18,feminino,31.35,4,nao,nordeste,4561.19
+51,feminino,34.96,2,sim,centro oeste,44641.2
+22,masculino,33.77,0,nao,sul,1674.63
+52,feminino,30.875,0,nao,sudeste,23045.57
+25,feminino,33.99,1,nao,nordeste,3227.12
+33,feminino,19.095,2,sim,centro oeste,16776.3
+53,masculino,28.6,3,nao,centro oeste,11253.42
+29,masculino,38.94,1,nao,norte,3471.41
+58,masculino,36.08,0,nao,sudeste,11363.28
+37,masculino,29.8,0,nao,sudeste,20420.6
+54,feminino,31.24,0,nao,sul,10338.93
+49,feminino,29.925,0,nao,centro oeste,8988.16
+50,feminino,26.22,2,nao,sul,10493.95
+26,masculino,30.0,1,nao,sul,2904.09
+45,masculino,20.35,3,nao,sudeste,8605.36
+54,feminino,32.3,1,nao,sudeste,11512.4
+38,masculino,38.39,3,sim,nordeste,41949.24
+48,feminino,25.85,3,sim,nordeste,24180.93
+28,feminino,26.315,3,nao,sul,5312.17
+23,masculino,24.51,0,nao,sudeste,2396.1
+55,masculino,32.67,1,nao,sul,10807.49
+41,masculino,29.64,5,nao,norte,9222.4
+25,masculino,33.33,2,sim,norte,36124.57
+33,masculino,35.75,1,sim,sudeste,38282.75
+30,feminino,19.95,3,nao,centro oeste,5693.43
+23,feminino,31.4,0,sim,sul,34166.27
+46,masculino,38.17,2,nao,norte,8347.16
+53,feminino,36.86,3,sim,norte,46661.44
+27,feminino,32.395,1,nao,nordeste,18903.49
+23,feminino,42.75,1,sim,centro oeste,40904.2
+63,feminino,25.08,0,nao,nordeste,14254.61
+55,masculino,29.9,0,nao,centro oeste,10214.64
+35,feminino,35.86,2,nao,nordeste,5836.52
+34,masculino,32.8,1,nao,sul,14358.36
+19,feminino,18.6,0,nao,norte,1728.9
+39,feminino,23.87,5,nao,sul,8582.3
+27,masculino,45.9,2,nao,sudeste,3693.43
+57,masculino,40.28,0,nao,sul,20709.02
+52,feminino,18.335,0,nao,nordeste,9991.04
+28,masculino,33.82,0,nao,norte,19673.34
+50,feminino,28.12,3,nao,norte,11085.59
+44,feminino,25.0,1,nao,sudeste,7623.52
+26,feminino,22.23,0,nao,norte,3176.29
+33,masculino,30.25,0,nao,norte,3704.35
+19,feminino,32.49,0,sim,norte,36898.73
+50,masculino,37.07,1,nao,sul,9048.03
+41,feminino,32.6,3,nao,nordeste,7954.52
+52,feminino,24.86,0,nao,norte,27117.99
+39,masculino,32.34,2,nao,nordeste,6338.08
+50,masculino,32.3,2,nao,nordeste,9630.4
+52,masculino,32.775,3,nao,nordeste,11289.11
+60,masculino,32.8,0,sim,norte,52590.83
+20,feminino,31.92,0,nao,sudeste,2261.57
+55,masculino,21.5,1,nao,sul,10791.96
+42,masculino,34.1,0,nao,nordeste,5979.73
+18,feminino,30.305,0,nao,nordeste,2203.74
+58,feminino,36.48,0,nao,nordeste,12235.84
+43,feminino,32.56,3,sim,sul,40941.29
+35,feminino,35.815,1,nao,centro oeste,5630.46
+48,feminino,27.93,4,nao,nordeste,11015.17
+36,feminino,22.135,3,nao,norte,7228.22
+19,masculino,44.88,0,sim,sul,39722.75
+23,feminino,23.18,2,nao,centro oeste,14426.07
+20,feminino,30.59,0,nao,sul,2459.72
+32,feminino,41.1,0,nao,centro oeste,3989.84
+43,feminino,34.58,1,nao,sudeste,7727.25
+34,masculino,42.13,2,nao,norte,5124.19
+30,masculino,38.83,1,nao,norte,18963.17
+18,feminino,28.215,0,nao,norte,2200.83
+41,feminino,28.31,1,nao,norte,7153.55
+35,feminino,26.125,0,nao,centro oeste,5227.99
+57,masculino,40.37,0,nao,sul,10982.5
+29,feminino,24.6,2,nao,norte,4529.48
+32,masculino,35.2,2,nao,norte,4670.64
+37,feminino,34.105,1,nao,centro oeste,6112.35
+18,masculino,27.36,1,sim,nordeste,17178.68
+43,feminino,26.7,2,sim,sudeste,22478.6
+56,feminino,41.91,0,nao,centro oeste,11093.62
+38,masculino,29.26,2,nao,nordeste,6457.84
+29,masculino,32.11,2,nao,sudeste,4433.92
+22,feminino,27.1,0,nao,centro oeste,2154.36
+52,feminino,24.13,1,sim,centro oeste,23887.66
+40,feminino,27.4,1,nao,centro oeste,6496.89
+23,feminino,34.865,0,nao,sudeste,2899.49
+31,masculino,29.81,0,sim,centro oeste,19350.37
+42,feminino,41.325,1,nao,norte,7650.77
+24,feminino,29.925,0,nao,sul,2850.68
+25,feminino,30.3,0,nao,sudeste,2632.99
+48,feminino,27.36,1,nao,sul,9447.38
+23,feminino,28.49,1,sim,sudeste,18328.24
+45,masculino,23.56,2,nao,centro oeste,8603.82
+20,masculino,35.625,3,sim,sudeste,37465.34
+62,feminino,32.68,0,nao,sudeste,13844.8
+43,feminino,25.27,1,sim,sudeste,21771.34
+23,feminino,28.0,0,nao,centro oeste,13126.68
+31,feminino,32.775,2,nao,norte,5327.4
+41,feminino,21.755,1,nao,nordeste,13725.47
+58,feminino,32.395,1,nao,centro oeste,13019.16
+48,feminino,36.575,0,nao,norte,8671.19
+31,feminino,21.755,0,nao,norte,4134.08
+19,feminino,27.93,3,nao,centro oeste,18838.7
+19,feminino,30.02,0,sim,sul,33307.55
+41,masculino,33.55,0,nao,norte,5699.84
+40,masculino,29.355,1,nao,sul,6393.6
+31,feminino,25.8,2,nao,sudeste,4934.7
+37,masculino,24.32,2,nao,centro oeste,6198.75
+46,masculino,40.375,2,nao,sul,8733.23
+22,masculino,32.11,0,nao,sudeste,2055.32
+51,masculino,32.3,1,nao,centro oeste,9964.06
+18,feminino,27.28,3,sim,centro oeste,18223.45
+35,masculino,17.86,1,nao,norte,5116.5
+59,feminino,34.8,2,nao,sudeste,36910.61
+36,masculino,33.4,2,sim,norte,38415.47
+37,feminino,25.555,1,sim,sudeste,20296.86
+59,masculino,37.1,1,nao,centro oeste,12347.17
+36,masculino,30.875,1,nao,norte,5373.36
+39,masculino,34.1,2,nao,nordeste,23563.02
+18,masculino,21.47,0,nao,centro oeste,1702.46
+52,feminino,33.3,2,nao,sul,10806.84
+27,feminino,31.255,1,nao,norte,3956.07
+18,masculino,39.14,0,nao,nordeste,12890.06
+40,masculino,25.08,0,nao,sudeste,5415.66
+29,masculino,37.29,2,nao,sudeste,4058.12
+46,feminino,34.6,1,sim,norte,41661.6
+38,feminino,30.21,3,nao,centro oeste,7537.16
+30,feminino,21.945,1,nao,centro oeste,4718.2
+40,masculino,24.97,2,nao,norte,6593.51
+50,masculino,25.3,0,nao,sudeste,8442.67
+20,feminino,24.42,0,sim,norte,26125.67
+41,masculino,23.94,1,nao,sudeste,6858.48
+33,feminino,39.82,1,nao,sudeste,4795.66
+38,masculino,16.815,2,nao,sul,6640.54
+42,masculino,37.18,2,nao,nordeste,7162.01
+56,masculino,34.43,0,nao,centro oeste,10594.23
+58,masculino,30.305,0,nao,nordeste,11938.26
+52,masculino,34.485,3,sim,nordeste,60021.4
+20,feminino,21.8,0,sim,nordeste,20167.34
+54,feminino,24.605,3,nao,norte,12479.71
+58,masculino,23.3,0,nao,sudeste,11345.52
+45,feminino,27.83,2,nao,sul,8515.76
+26,masculino,31.065,0,nao,centro oeste,2699.57
+63,feminino,21.66,0,nao,nordeste,14449.85
+58,feminino,28.215,0,nao,centro oeste,12224.35
+37,masculino,22.705,3,nao,sul,6985.51
+25,feminino,42.13,1,nao,nordeste,3238.44
+52,masculino,41.8,2,sim,nordeste,47269.85
+64,masculino,36.96,2,sim,sudeste,49577.66
+22,feminino,21.28,3,nao,nordeste,4296.27
+28,feminino,33.11,0,nao,sul,3171.61
+18,masculino,33.33,0,nao,norte,1135.94
+28,masculino,24.3,5,nao,centro oeste,5615.37
+45,feminino,25.7,3,nao,nordeste,9101.8
+33,masculino,29.4,4,nao,sul,6059.17
+18,feminino,39.82,0,nao,nordeste,1633.96
+32,masculino,33.63,1,sim,sudeste,37607.53
+24,masculino,29.83,0,sim,norte,18648.42
+19,masculino,19.8,0,nao,nordeste,1241.56
+20,masculino,27.3,0,sim,sudeste,16232.85
+40,feminino,29.3,4,nao,norte,15828.82
+34,feminino,27.72,0,nao,centro oeste,4415.16
+42,feminino,37.9,0,nao,norte,6474.01
+51,feminino,36.385,3,nao,sudeste,11436.74
+54,feminino,27.645,1,nao,nordeste,11305.93
+55,masculino,37.715,3,nao,sudeste,30063.58
+52,feminino,23.18,0,nao,norte,10197.77
+32,feminino,20.52,0,nao,centro oeste,4544.23
+28,masculino,37.1,1,nao,norte,3277.16
+41,feminino,28.05,1,nao,nordeste,6770.19
+43,feminino,29.9,1,nao,nordeste,7337.75
+49,feminino,33.345,2,nao,centro oeste,10370.91
+64,masculino,23.76,0,sim,norte,26926.51
+55,feminino,30.5,0,nao,sudeste,10704.47
+24,masculino,31.065,0,sim,sudeste,34254.05
+20,feminino,33.3,0,nao,sul,1880.49
+45,masculino,27.5,3,nao,sudeste,8615.3
+26,masculino,33.915,1,nao,nordeste,3292.53
+25,feminino,34.485,0,nao,sudeste,3021.81
+43,masculino,25.52,5,nao,sudeste,14478.33
+35,masculino,27.61,1,nao,sul,4747.05
+26,masculino,27.06,0,sim,nordeste,17043.34
+57,masculino,23.7,0,nao,sudeste,10959.33
+22,feminino,30.4,0,nao,sudeste,2741.95
+32,feminino,29.735,0,nao,centro oeste,4357.04
+39,masculino,29.925,1,sim,sul,22462.04
+25,feminino,26.79,2,nao,sudeste,4189.11
+48,feminino,33.33,0,nao,norte,8283.68
+47,feminino,27.645,2,sim,norte,24535.7
+18,feminino,21.66,0,sim,norte,14283.46
+18,masculino,30.03,1,nao,sudeste,1720.35
+61,masculino,36.3,1,sim,sul,47403.88
+47,feminino,24.32,0,nao,sul,8534.67
+28,feminino,17.29,0,nao,norte,3732.63
+36,feminino,25.9,1,nao,sul,5472.45
+20,masculino,39.4,2,sim,sudeste,38344.57
+44,masculino,34.32,1,nao,sudeste,7147.47
+38,feminino,19.95,2,nao,sul,7133.9
+19,masculino,34.9,0,sim,sudeste,34828.65
+21,masculino,23.21,0,nao,centro oeste,1515.34
+46,masculino,25.745,3,nao,sudeste,9301.89
+58,masculino,25.175,0,nao,nordeste,11931.13
+20,masculino,22.0,1,nao,nordeste,1964.78
+18,masculino,26.125,0,nao,centro oeste,1708.93
+28,feminino,26.51,2,nao,nordeste,4340.44
+33,masculino,27.455,2,nao,sul,5261.47
+19,feminino,25.745,1,nao,nordeste,2710.83
+45,masculino,30.36,0,sim,sul,62592.87
+62,masculino,30.875,3,sim,sul,46718.16
+25,feminino,20.8,1,nao,centro oeste,3208.79
+43,masculino,27.8,0,sim,norte,37829.72
+42,masculino,24.605,2,sim,sul,21259.38
+24,feminino,27.72,0,nao,sul,2464.62
+29,feminino,21.85,0,sim,sul,16115.3
+32,masculino,28.12,4,sim,sul,21472.48
+25,feminino,30.2,0,sim,sudeste,33900.65
+41,masculino,32.2,2,nao,sudeste,6875.96
+42,masculino,26.315,1,nao,sul,6940.91
+33,feminino,26.695,0,nao,sul,4571.41
+34,masculino,42.9,1,nao,sul,4536.26
+19,feminino,34.7,2,sim,centro oeste,36397.58
+30,feminino,23.655,3,sim,sudeste,18765.88
+18,masculino,28.31,1,nao,norte,11272.33
+19,feminino,20.6,0,nao,nordeste,1731.68
+18,masculino,53.13,0,nao,centro oeste,1163.46
+35,masculino,39.71,4,nao,sul,19496.72
+39,feminino,26.315,2,nao,nordeste,7201.7
+31,masculino,31.065,3,nao,sul,5425.02
+62,masculino,26.695,0,sim,centro oeste,28101.33
+62,masculino,38.83,0,nao,sul,12981.35
+42,feminino,40.37,2,sim,norte,43896.38
+31,masculino,25.935,1,nao,sul,4239.89
+61,masculino,33.535,0,nao,centro oeste,13143.34
+42,feminino,32.87,0,nao,sul,7050.02
+51,masculino,30.03,1,nao,nordeste,9377.9
+23,feminino,24.225,2,nao,nordeste,22395.74
+52,masculino,38.6,2,nao,sudeste,10325.21
+57,feminino,25.74,2,nao,sul,12629.17
+23,feminino,33.4,0,nao,centro oeste,10795.94
+52,feminino,44.7,3,nao,sul,11411.68
+50,masculino,30.97,3,nao,centro oeste,10600.55
+18,feminino,31.92,0,nao,sudeste,2205.98
+18,feminino,36.85,0,nao,nordeste,1629.83
+21,feminino,25.8,0,nao,sudeste,2007.94
+61,feminino,29.07,0,sim,sul,29141.36
