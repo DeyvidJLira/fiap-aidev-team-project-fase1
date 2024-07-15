@@ -1,0 +1,1339 @@
+idade,sexo,imc,filhos,fumante,regiao,cobranca
+19,feminino,27.9,0,yes,nordeste,16.884.924
+18,masculino,33.77,1,no,centro oeste,17.255.523
+28,masculino,33,3,no,sudeste,4.449.462
+33,masculino,22.705,0,no,centro oeste,2.198.447.061
+32,masculino,28.88,0,no,sul,38.668.55
+31,feminino,25.74,0,no,centro oeste,37.566.216
+46,feminino,33.44,1,no,centro oeste,82.405.896
+37,feminino,27.74,3,no,centro oeste,72.815.056
+37,masculino,29.83,2,no,sul,64.064.107
+60,feminino,25.84,0,no,centro oeste,2.892.313.692
+25,masculino,26.22,0,no,sudeste,27.213.208
+62,feminino,26.29,0,yes,sul,278.087.251
+23,masculino,34.4,0,no,centro oeste,1.826.843
+56,feminino,39.82,0,no,sudeste,110.907.178
+27,masculino,42.13,0,yes,centro oeste,396.117.577
+19,masculino,24.6,1,no,centro oeste,1.837.237
+52,feminino,30.78,1,no,sul,107.973.362
+23,masculino,23.845,0,no,nordeste,239.517.155
+56,masculino,40.3,0,no,nordeste,10.602.385
+30,masculino,35.3,0,yes,norte,36.837.467
+60,feminino,36.005,0,no,norte,1.322.884.695
+30,feminino,32.4,1,no,centro oeste,4.149.736
+18,masculino,34.1,0,no,centro oeste,1.137.011
+34,feminino,31.92,1,yes,norte,377.018.768
+37,masculino,28.025,2,no,centro oeste,620.390.175
+59,feminino,27.72,3,no,sul,140.011.338
+63,feminino,23.085,0,no,norte,1.445.183.515
+55,feminino,32.775,2,no,sul,1.226.863.225
+23,masculino,17.385,1,no,nordeste,277.519.215
+31,masculino,36.3,2,yes,norte,38711
+22,masculino,35.6,0,yes,sudeste,35.585.576
+18,feminino,26.315,0,no,norte,219.818.985
+19,feminino,28.6,5,no,centro oeste,4.687.797
+63,masculino,28.31,0,no,nordeste,137.700.979
+28,masculino,36.4,1,yes,sul,5.119.455.914
+19,masculino,20.425,0,no,nordeste,162.543.375
+62,feminino,32.965,3,no,sul,1.561.219.335
+26,masculino,20.8,0,no,norte,2302.3
+35,masculino,36.67,1,yes,sudeste,397.742.763
+60,masculino,39.9,0,yes,norte,48.173.361
+24,feminino,26.6,0,no,nordeste,3.046.062
+31,feminino,36.63,2,no,sul,49.497.587
+41,masculino,21.78,1,no,sudeste,62.724.772
+37,feminino,30.8,2,no,centro oeste,6.313.759
+38,masculino,37.05,1,no,sul,60.796.715
+55,masculino,37.3,0,no,norte,2.063.028.351
+18,feminino,38.665,2,no,norte,339.335.635
+28,feminino,34.77,0,no,nordeste,35.569.223
+60,feminino,24.53,0,no,sudeste,126.298.967
+36,masculino,35.2,1,yes,centro oeste,38.709.176
+18,feminino,35.625,0,no,sudeste,221.113.075
+21,feminino,33.63,2,no,sul,35.798.287
+48,masculino,28,1,yes,norte,23.568.272
+36,masculino,34.43,0,yes,sudeste,377.425.757
+40,feminino,28.69,3,no,sul,80.596.791
+58,masculino,36.955,2,yes,nordeste,4.749.649.445
+58,feminino,31.825,2,no,sul,1.360.736.875
+18,masculino,31.68,2,yes,centro oeste,343.031.672
+53,feminino,22.88,1,yes,nordeste,232.447.902
+34,feminino,37.335,2,no,sul,598.952.365
+43,masculino,27.36,3,no,nordeste,86.062.174
+25,masculino,33.66,4,no,norte,45.046.624
+64,masculino,24.7,1,no,sudeste,3.016.661.817
+28,feminino,25.935,1,no,sul,413.364.165
+20,feminino,22.42,0,yes,nordeste,147.117.438
+19,feminino,28.9,0,no,norte,1.743.214
+61,feminino,39.1,2,no,centro oeste,14.235.072
+40,masculino,26.315,1,no,centro oeste,638.937.785
+40,feminino,36.19,0,no,sul,59.201.041
+28,masculino,23.98,3,yes,nordeste,176.631.442
+27,feminino,24.75,0,yes,sudeste,165.777.795
+31,masculino,28.5,5,no,nordeste,6.799.458
+53,feminino,28.1,3,no,centro oeste,11.741.726
+58,masculino,32.01,1,no,sudeste,119.466.259
+44,masculino,27.4,2,no,sul,7.726.854
+57,masculino,34.01,0,no,sudeste,113.566.609
+29,feminino,29.59,1,no,centro oeste,39.474.131
+21,masculino,35.53,0,no,sudeste,15.324.697
+22,feminino,39.805,0,no,sul,275.502.095
+41,feminino,32.965,0,no,sudeste,657.102.435
+31,masculino,26.885,1,no,norte,444.121.315
+45,feminino,38.285,0,no,sudeste,793.529.115
+22,masculino,37.62,1,yes,centro oeste,371.651.638
+48,feminino,41.23,4,no,norte,110.336.617
+37,feminino,34.8,2,yes,centro oeste,39.836.519
+45,masculino,22.895,2,yes,centro oeste,2.109.855.405
+57,feminino,31.16,0,yes,centro oeste,435.789.394
+56,feminino,27.2,0,no,centro oeste,11.073.176
+46,feminino,27.74,0,no,centro oeste,80.266.666
+55,feminino,26.98,0,no,sul,110.825.772
+21,feminino,39.49,0,no,centro oeste,20.269.741
+53,feminino,24.795,1,no,sudeste,1.094.213.205
+59,masculino,29.83,3,yes,sudeste,301.849.367
+35,masculino,34.77,2,no,sul,57.290.053
+64,feminino,31.3,2,yes,norte,47.291.055
+28,feminino,37.62,1,no,centro oeste,37.668.838
+54,feminino,30.8,3,no,sul,12105.32
+55,masculino,38.28,0,no,nordeste,102.262.842
+56,masculino,19.95,0,yes,nordeste,224.126.485
+38,masculino,19.3,0,yes,nordeste,15.820.699
+41,feminino,31.6,0,no,sudeste,6.186.127
+30,masculino,25.46,0,no,sul,36.450.894
+18,feminino,30.115,0,no,sul,213.448.467
+61,feminino,29.92,3,yes,nordeste,309.421.918
+34,feminino,27.5,1,no,centro oeste,5.003.853
+20,masculino,28.025,1,yes,centro oeste,1.756.037.975
+19,feminino,28.4,1,no,sul,2.331.519
+26,masculino,30.875,2,no,centro oeste,387.730.425
+29,masculino,27.94,0,no,nordeste,28.671.196
+63,masculino,35.09,0,yes,nordeste,470.555.321
+54,masculino,33.63,1,no,sul,108.252.537
+55,feminino,29.7,2,no,sudeste,11.881.358
+37,masculino,30.8,0,no,centro oeste,4.646.759
+21,feminino,35.72,0,no,sul,24.047.338
+52,masculino,32.205,3,no,norte,1.148.831.695
+60,masculino,28.595,0,no,centro oeste,3.025.999.556
+58,masculino,49.06,0,no,norte,113.813.254
+29,feminino,27.94,1,yes,nordeste,191.077.796
+49,feminino,27.17,0,no,nordeste,86.013.293
+37,feminino,23.37,2,no,sudeste,66.864.313
+44,masculino,37.1,2,no,centro oeste,7.740.337
+18,masculino,23.75,0,no,centro oeste,17.056.245
+20,feminino,28.975,0,no,sul,225.747.525
+44,masculino,31.35,1,yes,norte,395.564.945
+47,feminino,33.915,3,no,norte,1.011.500.885
+26,feminino,28.785,0,no,sul,338.539.915
+19,feminino,28.3,0,yes,sudeste,17081.08
+52,feminino,37.4,0,no,sul,9.634.538
+32,feminino,17.765,2,yes,centro oeste,327.341.863
+38,masculino,34.7,2,no,sudeste,6.082.405
+59,feminino,26.505,0,no,sudeste,1.281.544.495
+61,feminino,22.04,0,no,centro oeste,136.163.586
+53,feminino,35.9,2,no,centro oeste,11.163.568
+19,masculino,25.555,0,no,norte,163.256.445
+20,feminino,28.785,0,no,norte,245.721.115
+22,feminino,28.05,0,no,sudeste,21.556.815
+19,masculino,34.1,0,no,sudeste,1.261.442
+22,masculino,25.175,0,no,sul,204.568.525
+54,feminino,31.9,3,no,sul,2.732.273.386
+22,feminino,36,0,no,nordeste,2.166.732
+34,masculino,22.42,2,no,sul,2.737.590.478
+26,masculino,32.49,1,no,sudeste,34.905.491
+34,masculino,25.3,2,yes,norte,18.972.495
+29,masculino,29.735,2,no,sudeste,18.157.876
+30,masculino,28.69,3,yes,norte,207.459.891
+29,feminino,38.83,3,no,nordeste,51.382.567
+46,masculino,30.495,3,yes,sul,4.072.055.105
+51,feminino,37.73,1,no,norte,98.776.077
+53,feminino,37.43,1,no,norte,109.596.947
+19,masculino,28.4,1,no,sudeste,1.842.519
+35,masculino,24.13,1,no,centro oeste,51.252.157
+48,masculino,29.7,0,no,sul,7.789.635
+32,feminino,37.145,3,no,centro oeste,633.434.355
+42,feminino,23.37,0,yes,centro oeste,199.647.463
+40,feminino,25.46,1,no,norte,70.771.894
+44,masculino,39.52,0,no,centro oeste,69.487.008
+48,masculino,24.42,0,yes,nordeste,212.236.758
+18,masculino,25.175,0,yes,sul,1.551.818.025
+30,masculino,35.53,0,yes,sudeste,369.502.567
+50,feminino,27.83,3,no,norte,1.974.938.338
+42,feminino,26.6,0,yes,sul,21.348.706
+18,feminino,36.85,0,yes,sudeste,361.494.835
+54,masculino,39.6,1,no,norte,10.450.552
+32,feminino,29.8,2,no,sudeste,5.152.134
+37,masculino,29.64,0,no,nordeste,50.281.466
+47,masculino,28.215,4,no,norte,1.040.708.585
+20,feminino,37,5,no,nordeste,4830.63
+32,feminino,33.155,3,no,nordeste,612.879.745
+19,feminino,31.825,1,no,nordeste,271.927.975
+27,masculino,18.905,3,no,sul,482.790.495
+63,masculino,41.47,0,no,sudeste,134.053.903
+49,masculino,30.3,0,no,sul,8116.68
+18,masculino,15.96,0,no,sudeste,16.947.964
+35,feminino,34.8,1,no,centro oeste,5.246.047
+24,feminino,33.345,0,no,sudeste,285.543.755
+63,feminino,37.7,0,yes,nordeste,48824.45
+38,masculino,27.835,2,no,sul,645.586.265
+54,masculino,29.2,1,no,centro oeste,10.436.096
+46,feminino,28.9,2,no,nordeste,8.823.279
+41,feminino,33.155,3,no,centro oeste,853.828.845
+58,masculino,28.595,0,no,centro oeste,1.173.587.905
+18,feminino,38.28,0,no,norte,16.318.212
+22,masculino,19.95,3,no,sudeste,40.054.225
+44,feminino,26.41,0,no,sudeste,74.194.779
+44,masculino,30.69,2,no,sul,77.314.271
+36,masculino,41.895,3,yes,sudeste,4.375.333.705
+26,feminino,29.92,2,no,nordeste,39.819.768
+30,feminino,30.9,3,no,norte,5.325.651
+41,feminino,32.2,1,no,centro oeste,6.775.961
+29,feminino,32.11,2,no,nordeste,49.229.159
+61,masculino,31.57,0,no,nordeste,125.576.053
+36,feminino,26.2,0,no,centro oeste,4.883.866
+25,masculino,25.74,0,no,norte,21.376.536
+56,feminino,26.6,1,no,centro oeste,12.044.342
+18,masculino,34.43,0,no,centro oeste,11.374.697
+19,masculino,30.59,0,no,sul,16.395.631
+39,feminino,32.8,0,no,norte,5.649.715
+45,feminino,28.6,2,no,nordeste,8.516.829
+51,feminino,18.05,0,no,sudeste,96.442.525
+64,feminino,39.33,0,no,norte,149.015.167
+19,feminino,32.11,0,no,centro oeste,21.306.759
+48,feminino,32.23,1,no,sul,88.711.517
+60,feminino,24.035,0,no,sudeste,1.301.220.865
+27,feminino,36.08,0,yes,nordeste,371.338.982
+46,masculino,22.3,0,no,sudeste,7.147.105
+28,feminino,28.88,1,no,norte,43.377.352
+59,masculino,26.4,0,no,sul,11.743.299
+35,masculino,27.74,2,yes,sudeste,209.840.936
+63,feminino,31.8,0,no,centro oeste,13.880.949
+40,masculino,41.23,1,no,sudeste,66.101.097
+20,masculino,33,1,no,sul,1980.07
+40,masculino,30.875,4,no,sul,816.271.625
+24,masculino,28.5,2,no,norte,3.537.703
+34,feminino,26.73,1,no,sul,50.027.827
+45,feminino,30.9,2,no,norte,8.520.026
+41,feminino,37.1,2,no,sudeste,7.371.772
+53,feminino,26.6,0,no,nordeste,10.355.641
+27,masculino,23.1,0,no,nordeste,2.483.736
+26,feminino,29.92,1,no,sudeste,33.929.768
+24,feminino,23.21,0,no,norte,2.508.176.784
+34,feminino,33.7,1,no,sul,5.012.471
+53,feminino,33.25,0,no,centro oeste,105.648.845
+32,masculino,30.8,3,no,nordeste,5.253.524
+19,masculino,34.8,0,yes,norte,34.779.615
+42,masculino,24.64,0,yes,norte,195.155.416
+55,masculino,33.88,3,no,nordeste,119.871.682
+28,masculino,38.06,0,no,nordeste,26.894.954
+58,feminino,41.91,0,no,norte,2.422.733.724
+41,feminino,31.635,1,no,norte,735.817.565
+47,masculino,25.46,2,no,sudeste,92.252.564
+42,feminino,36.195,1,no,sul,744.364.305
+59,feminino,27.83,3,no,norte,140.012.867
+19,feminino,17.8,0,no,sudeste,1.727.785
+59,masculino,27.5,1,no,norte,12.333.828
+39,masculino,24.51,2,no,nordeste,67.101.919
+40,feminino,22.22,2,yes,sudeste,194.442.658
+18,feminino,26.73,0,no,sul,16.157.667
+31,masculino,38.39,2,no,norte,44.632.051
+19,masculino,29.07,0,yes,norte,173.526.803
+44,masculino,38.06,1,no,norte,71.526.714
+23,feminino,36.67,2,yes,nordeste,385.116.283
+33,feminino,22.135,1,no,nordeste,535.407.465
+55,feminino,26.8,1,no,sul,3.516.013.457
+40,masculino,35.3,3,no,norte,7.196.867
+63,feminino,27.74,0,yes,norte,295.231.656
+54,masculino,30.02,0,no,centro oeste,2.447.647.851
+60,feminino,38.06,0,no,sudeste,126.487.034
+24,masculino,35.86,0,no,centro oeste,19.869.334
+19,masculino,20.9,1,no,sul,1.832.094
+29,masculino,28.975,1,no,sudeste,404.055.825
+18,masculino,17.29,2,yes,nordeste,128.294.551
+63,feminino,32.2,2,yes,norte,47.305.305
+54,masculino,34.21,2,yes,nordeste,442.607.499
+27,masculino,30.3,3,no,norte,4.260.744
+50,masculino,31.825,0,yes,sul,4.109.716.175
+55,feminino,25.365,3,no,nordeste,1.304.733.235
+56,masculino,33.63,0,yes,sudeste,439.211.837
+38,feminino,40.15,0,no,sudeste,54.009.805
+51,masculino,24.415,4,no,norte,1.152.009.985
+19,masculino,31.92,0,yes,centro oeste,337.502.918
+58,feminino,25.2,0,no,centro oeste,11837.16
+20,feminino,26.84,1,yes,sul,170.852.676
+52,masculino,24.32,3,yes,sudeste,248.698.368
+19,masculino,36.955,0,yes,sudeste,3.621.940.545
+53,feminino,38.06,3,no,centro oeste,2.046.299.766
+46,masculino,42.35,3,yes,sul,461.511.245
+40,masculino,19.8,1,yes,centro oeste,17.179.522
+59,feminino,32.395,3,no,norte,1.459.063.205
+45,masculino,30.2,1,no,norte,7.441.053
+49,masculino,25.84,1,no,nordeste,92.824.806
+18,masculino,29.37,1,no,centro oeste,17.194.363
+50,masculino,34.2,2,yes,centro oeste,42.856.838
+41,masculino,37.05,2,no,norte,72.657.025
+50,masculino,27.455,1,no,sudeste,961.766.245
+25,masculino,27.55,0,no,sudeste,25.231.695
+47,feminino,26.6,2,no,centro oeste,9.715.841
+19,masculino,20.615,2,no,nordeste,280.369.785
+22,feminino,24.3,0,no,nordeste,2.150.469
+59,masculino,31.79,2,no,norte,129.287.911
+51,feminino,21.56,1,no,sudeste,98.551.314
+40,feminino,28.12,1,yes,sudeste,223.315.668
+54,masculino,40.565,3,yes,sudeste,4.854.917.835
+30,masculino,27.645,1,no,nordeste,423.712.655
+55,feminino,32.395,1,no,sudeste,1.187.910.405
+52,feminino,31.2,0,no,sudeste,9625.92
+46,masculino,26.62,1,no,centro oeste,77.421.098
+46,feminino,48.07,2,no,sul,94.329.253
+63,feminino,26.22,0,no,sudeste,142.561.928
+59,feminino,36.765,1,yes,norte,4.789.679.135
+52,masculino,26.4,3,no,sul,2.599.282.104
+28,feminino,33.4,0,no,sudeste,3.172.018
+29,masculino,29.64,1,no,norte,2.027.780.751
+25,masculino,45.54,2,yes,sudeste,421.122.356
+22,feminino,28.82,0,no,sudeste,21.567.518
+25,masculino,26.8,3,no,nordeste,3.906.127
+18,masculino,22.99,0,no,sul,17.045.681
+19,masculino,27.7,0,yes,norte,16.297.846
+47,masculino,25.41,1,yes,norte,219.786.769
+31,masculino,34.39,3,yes,centro oeste,387.463.551
+48,feminino,28.88,1,no,nordeste,92.494.952
+36,masculino,27.55,3,no,nordeste,67.467.425
+53,feminino,22.61,3,yes,norte,248.733.849
+56,feminino,37.51,2,no,nordeste,122.655.069
+28,feminino,33,2,no,centro oeste,4.349.462
+57,feminino,38,2,no,centro oeste,12.646.207
+29,masculino,33.345,2,no,sudeste,194.423.535
+28,feminino,27.5,2,no,norte,2.017.767.113
+30,feminino,33.33,1,no,sudeste,41.510.287
+58,masculino,34.865,0,no,centro oeste,1.194.459.435
+41,feminino,33.06,2,no,sul,77.491.564
+50,masculino,26.6,0,no,nordeste,8.444.474
+19,feminino,24.7,0,no,sul,1.737.376
+43,masculino,35.97,3,yes,centro oeste,421.245.153
+49,masculino,35.86,0,no,centro oeste,81.244.084
+27,feminino,31.4,0,yes,sudeste,34.838.873
+52,masculino,33.25,0,no,norte,97.227.695
+50,masculino,32.205,0,no,sul,883.526.495
+54,masculino,32.775,0,no,norte,1.043.506.525
+44,feminino,27.645,0,no,sul,742.119.455
+32,masculino,37.335,1,no,sul,466.760.765
+34,masculino,25.27,1,no,sul,48.947.533
+26,feminino,29.64,4,no,norte,2.467.166.334
+34,masculino,30.8,0,yes,centro oeste,35491.64
+57,masculino,40.945,0,no,sudeste,1.156.630.055
+29,masculino,27.2,0,no,sul,2.866.091
+40,masculino,34.105,1,no,norte,660.020.595
+27,feminino,23.21,1,no,nordeste,35.618.889
+45,masculino,36.48,2,yes,sul,427.605.022
+64,feminino,33.8,1,yes,centro oeste,47928.03
+52,masculino,36.7,0,no,sudeste,9.144.565
+61,feminino,36.385,1,yes,sul,4.851.756.315
+52,masculino,27.36,0,yes,centro oeste,243.936.224
+61,feminino,31.16,0,no,sul,134.290.354
+56,feminino,28.785,0,no,centro oeste,1.165.837.915
+43,feminino,35.72,2,no,sudeste,1.914.457.652
+64,masculino,34.5,0,no,sul,13.822.803
+60,masculino,25.74,0,no,centro oeste,121.425.786
+62,masculino,27.55,1,no,sudeste,139.376.665
+50,masculino,32.3,1,yes,nordeste,41.919.097
+46,feminino,27.72,1,no,norte,82.326.388
+24,feminino,27.6,0,no,centro oeste,1.895.522.017
+62,masculino,30.02,0,no,centro oeste,133.520.998
+60,feminino,27.55,0,no,centro oeste,132.170.945
+63,masculino,36.765,0,no,nordeste,1.398.185.035
+49,feminino,41.47,4,no,centro oeste,109.772.063
+34,feminino,29.26,3,no,nordeste,61.842.994
+33,masculino,35.75,2,no,sudeste,48.899.995
+46,masculino,33.345,1,no,sudeste,833.445.755
+36,feminino,29.92,1,no,norte,54.780.368
+19,masculino,27.835,0,no,norte,163.573.365
+57,feminino,23.18,0,no,norte,118.306.072
+50,feminino,25.6,0,no,sudeste,8.932.084
+30,feminino,27.7,0,no,sul,3.554.203
+33,masculino,35.245,0,no,nordeste,124.048.791
+18,feminino,38.28,0,no,sudeste,1.413.303.775
+46,masculino,27.6,0,no,nordeste,2.460.304.837
+46,masculino,43.89,3,no,norte,89.441.151
+47,masculino,29.83,3,no,norte,96.203.307
+23,masculino,41.91,0,no,sudeste,18.372.819
+18,feminino,20.79,0,no,centro oeste,16.075.101
+48,feminino,32.3,2,no,sudeste,10.043.249
+35,masculino,30.5,1,no,sul,4751.07
+19,feminino,21.7,0,yes,centro oeste,13.844.506
+21,feminino,26.4,1,no,centro oeste,2.597.779
+21,feminino,21.89,2,no,norte,31.805.101
+49,feminino,30.78,1,no,centro oeste,97.783.472
+56,feminino,32.3,3,no,sudeste,13.430.265
+42,feminino,24.985,2,no,centro oeste,801.706.115
+44,masculino,32.015,2,no,sudeste,811.626.885
+18,masculino,30.4,3,no,norte,3.481.868
+61,feminino,21.09,0,no,centro oeste,134.150.381
+57,feminino,22.23,0,no,norte,120.292.867
+42,feminino,33.155,1,no,nordeste,763.941.745
+26,masculino,32.9,2,yes,centro oeste,36.085.219
+20,masculino,33.33,0,no,sul,13.915.287
+23,feminino,28.31,0,yes,nordeste,180.339.679
+39,feminino,24.89,3,yes,sudeste,216.599.301
+24,masculino,40.15,0,yes,sudeste,381.262.465
+64,feminino,30.115,3,no,centro oeste,1.645.570.785
+62,masculino,31.46,1,no,sul,2.700.098.473
+27,feminino,17.955,2,yes,centro oeste,1.500.657.945
+55,masculino,30.685,0,yes,norte,4.230.369.215
+55,masculino,33,0,no,norte,2.078.148.892
+35,feminino,43.34,2,no,sul,58.469.176
+44,masculino,22.135,2,no,sudeste,830.253.565
+19,masculino,34.4,0,no,sul,1.261.859
+58,feminino,39.05,0,no,centro oeste,118.564.115
+50,masculino,25.365,2,no,sudeste,3.028.464.294
+26,feminino,22.61,0,no,nordeste,31.768.159
+24,feminino,30.21,3,no,nordeste,46.180.799
+48,masculino,35.625,4,no,norte,1.073.687.075
+19,feminino,37.43,0,no,sudeste,21.380.707
+48,masculino,31.445,1,no,centro oeste,896.406.055
+49,masculino,31.35,1,no,nordeste,92.901.395
+46,feminino,32.3,2,no,nordeste,9.411.005
+46,masculino,19.855,0,no,sul,752.670.645
+43,feminino,34.4,3,no,sul,8.522.003
+21,masculino,31.02,0,no,nordeste,1.658.649.771
+64,masculino,25.6,2,no,sudeste,14.988.432
+18,feminino,38.17,0,no,norte,16.316.683
+51,feminino,20.6,0,no,nordeste,9.264.797
+47,masculino,47.52,1,no,centro oeste,80.839.198
+64,feminino,32.965,0,no,sudeste,1.469.266.935
+49,masculino,32.3,3,no,norte,10269.46
+31,masculino,20.4,0,no,norte,3.260.199
+52,feminino,38.38,2,no,nordeste,113.969.002
+33,feminino,24.31,0,no,sudeste,41.850.979
+47,feminino,23.6,1,no,norte,8.539.671
+38,masculino,21.12,3,no,centro oeste,66.525.288
+32,masculino,30.03,1,no,sudeste,40.744.537
+19,masculino,17.48,0,no,centro oeste,16.213.402
+44,feminino,20.235,1,yes,sul,1.959.480.965
+26,feminino,17.195,2,yes,nordeste,1.445.564.405
+25,masculino,23.9,5,no,sudeste,5.080.096
+19,feminino,35.15,0,no,sudeste,21.349.015
+43,feminino,35.64,1,no,sudeste,73.457.266
+52,masculino,34.1,0,no,sul,9.140.951
+36,feminino,22.6,2,yes,nordeste,18.608.262
+64,masculino,39.16,1,no,sul,144.182.804
+63,feminino,26.98,0,yes,nordeste,289.504.692
+64,masculino,33.88,0,yes,sudeste,468.892.612
+61,masculino,35.86,0,yes,sudeste,465.991.084
+40,masculino,32.775,1,yes,nordeste,3.912.533.225
+25,masculino,30.59,0,no,sul,27.273.951
+48,masculino,30.2,2,no,sudeste,8968.33
+45,masculino,24.31,5,no,norte,97.888.659
+38,feminino,27.265,1,no,sul,655.507.035
+18,feminino,29.165,0,no,sul,7.323.734.819
+21,feminino,16.815,1,no,nordeste,316.745.585
+27,feminino,30.4,3,no,sul,188.047.524
+19,masculino,33.1,0,no,centro oeste,2.308.295.533
+29,feminino,20.235,2,no,centro oeste,490.640.965
+42,masculino,26.9,0,no,centro oeste,5.969.723
+60,feminino,30.5,0,no,norte,12.638.195
+31,masculino,28.595,1,no,nordeste,424.359.005
+60,masculino,33.11,3,no,nordeste,139.198.229
+22,masculino,31.73,0,no,nordeste,22.547.967
+35,masculino,28.9,3,no,sudeste,5.926.846
+52,feminino,46.75,5,no,norte,125.925.345
+26,masculino,29.45,0,no,centro oeste,28.973.235
+31,feminino,32.68,1,no,nordeste,47.382.682
+33,feminino,33.5,0,yes,centro oeste,37.079.372
+18,masculino,43.01,0,no,norte,11.493.959
+59,feminino,36.52,1,no,sul,2.828.789.766
+56,masculino,26.695,1,yes,sudeste,2.610.932.905
+45,feminino,33.1,0,no,sul,7.345.084
+60,masculino,29.64,0,no,nordeste,127.309.996
+56,feminino,25.65,0,no,sudeste,114.540.215
+40,feminino,29.6,0,no,norte,5.910.944
+35,masculino,38.6,1,no,sul,4.762.329
+39,masculino,29.6,4,no,centro oeste,7.512.267
+30,masculino,24.13,1,no,norte,40.322.407
+24,masculino,23.4,0,no,centro oeste,1.969.614
+20,masculino,29.735,0,no,centro oeste,176.953.165
+32,masculino,46.53,2,no,nordeste,46.863.887
+59,masculino,37.4,0,no,sudeste,217.970.004
+55,feminino,30.14,2,no,sul,118.819.696
+57,feminino,30.495,0,no,centro oeste,1.184.077.505
+56,masculino,39.6,0,no,norte,10.601.412
+40,feminino,33,3,no,sul,7682.67
+49,feminino,36.63,3,no,nordeste,103.814.787
+42,masculino,30,0,yes,centro oeste,22.144.032
+62,feminino,38.095,2,no,sul,1.523.032.405
+56,masculino,25.935,0,no,norte,1.116.541.765
+19,masculino,25.175,0,no,sudeste,163.203.625
+30,feminino,28.38,1,yes,sudeste,195.219.682
+60,feminino,28.7,1,no,centro oeste,13.224.693
+56,feminino,33.82,2,no,sul,126.433.778
+28,feminino,24.32,1,no,centro oeste,232.889.284
+18,feminino,24.09,1,no,sul,22.010.971
+27,masculino,32.67,0,no,sul,24.970.383
+18,feminino,30.115,0,no,norte,220.347.185
+19,feminino,29.8,0,no,norte,1.744.465
+47,feminino,33.345,0,no,sul,2.087.878.443
+54,masculino,25.1,3,yes,sudeste,25.382.297
+61,masculino,28.31,1,yes,nordeste,288.686.639
+24,masculino,28.5,0,yes,sudeste,3.514.752.848
+25,masculino,35.625,0,no,nordeste,253.439.375
+21,masculino,36.85,0,no,sudeste,15.343.045
+23,masculino,32.56,0,no,sul,18.242.854
+63,masculino,41.325,3,no,sul,1.555.518.875
+49,masculino,37.51,2,no,norte,93.047.019
+18,feminino,31.35,0,no,centro oeste,16.221.885
+51,feminino,39.5,1,no,sul,9.880.068
+48,masculino,34.3,3,no,nordeste,9.563.029
+31,feminino,31.065,0,no,sul,434.702.335
+54,feminino,21.47,3,no,norte,124.753.513
+19,masculino,28.7,0,no,nordeste,1.253.936
+44,feminino,38.06,0,yes,centro oeste,4.888.513.561
+53,masculino,31.16,1,no,sudeste,104.619.794
+19,feminino,32.9,0,no,norte,1.748.774
+61,feminino,25.08,0,no,sul,2.451.309.126
+18,feminino,25.08,0,no,centro oeste,21.964.732
+61,masculino,43.4,0,no,norte,12.574.049
+21,masculino,25.7,4,yes,sudeste,17.942.106
+20,masculino,27.93,0,no,centro oeste,19.670.227
+31,feminino,23.6,2,no,sudeste,4.931.647
+45,masculino,28.7,2,no,norte,8.027.968
+44,feminino,23.98,2,no,centro oeste,82.111.002
+62,feminino,39.2,0,no,norte,13470.86
+29,masculino,34.4,0,yes,sul,36.197.699
+43,masculino,26.03,0,no,nordeste,68.373.687
+51,masculino,23.21,1,yes,norte,222.181.149
+19,masculino,30.25,0,yes,sul,325.483.405
+38,feminino,28.93,1,no,nordeste,59.743.847
+37,masculino,30.875,3,no,norte,679.686.325
+22,masculino,31.35,1,no,centro oeste,26.432.685
+21,masculino,23.75,2,no,sul,30.770.955
+24,feminino,25.27,0,no,norte,30.442.133
+57,feminino,28.7,0,no,sudeste,11455.28
+56,masculino,32.11,1,no,nordeste,117.630.009
+27,masculino,33.66,0,no,nordeste,24.984.144
+51,masculino,22.42,0,no,nordeste,93.613.268
+19,masculino,30.4,0,no,sul,1.256.299
+39,masculino,28.3,1,yes,norte,21082.16
+58,masculino,35.7,0,no,nordeste,11.362.755
+20,masculino,35.31,1,no,nordeste,2.772.428.875
+45,masculino,30.495,2,no,sudeste,841.346.305
+35,feminino,31,1,no,norte,5.240.765
+31,masculino,30.875,0,no,nordeste,385.775.925
+50,feminino,27.36,0,no,centro oeste,2.565.657.526
+32,feminino,44.22,0,no,sudeste,39.941.778
+51,feminino,33.915,0,no,sudeste,986.630.485
+38,feminino,37.73,0,no,centro oeste,53.976.167
+42,masculino,26.07,1,yes,sul,3.824.559.327
+18,feminino,33.88,0,no,sudeste,1.148.263.485
+19,feminino,30.59,2,no,sul,2.405.968.019
+51,feminino,25.8,1,no,centro oeste,9.861.025
+46,masculino,39.425,1,no,sudeste,834.290.875
+18,masculino,25.46,0,no,norte,17.080.014
+57,masculino,42.13,1,yes,sul,486.755.177
+62,feminino,31.73,0,no,nordeste,140.434.767
+59,masculino,29.7,2,no,sul,12.925.886
+37,masculino,36.19,0,no,centro oeste,1.921.470.553
+64,masculino,40.48,0,no,sudeste,138.311.152
+38,masculino,28.025,1,no,sudeste,606.712.675
+33,feminino,38.9,3,no,centro oeste,5.972.378
+46,feminino,30.2,2,no,norte,8.825.086
+46,feminino,28.05,1,no,nordeste,82.330.975
+53,masculino,31.35,0,no,sudeste,2.734.604.207
+34,feminino,38,3,no,sudeste,6.196.448
+20,feminino,31.79,2,no,nordeste,30.563.881
+63,feminino,36.3,0,no,norte,13.887.204
+54,feminino,47.41,0,yes,sudeste,6.377.042.801
+54,masculino,30.21,0,no,sudeste,102.314.999
+49,masculino,25.84,2,yes,sul,238.072.406
+28,masculino,35.435,0,no,nordeste,326.884.665
+54,feminino,46.7,2,no,nordeste,11.538.421
+25,feminino,28.595,0,no,sudeste,321.362.205
+43,feminino,46.2,0,yes,sul,45.863.205
+63,masculino,30.8,0,no,nordeste,13.390.559
+32,feminino,28.93,0,no,nordeste,39.729.247
+62,masculino,21.4,0,no,sul,12.957.118
+52,feminino,31.73,2,no,sudeste,111.876.567
+25,feminino,41.325,0,no,centro oeste,1.787.890.068
+28,masculino,23.8,2,no,sudeste,3.847.674
+46,masculino,33.44,1,no,sul,83.345.896
+34,masculino,34.21,0,no,nordeste,39.351.799
+35,feminino,34.105,3,yes,sul,3.998.342.595
+19,masculino,35.53,0,no,sul,16.464.297
+46,feminino,19.95,2,no,norte,91.938.385
+54,feminino,32.68,0,no,sudeste,109.239.332
+27,masculino,30.5,0,no,norte,2.494.022
+50,masculino,44.77,1,no,nordeste,90.587.303
+18,feminino,32.12,2,no,sudeste,28.012.588
+19,feminino,30.495,0,no,sul,212.843.105
+38,feminino,40.565,1,no,sudeste,637.355.735
+41,masculino,30.59,2,no,nordeste,72.567.231
+49,feminino,31.9,5,no,norte,11.552.904
+48,masculino,40.565,2,yes,sul,4.570.202.235
+31,feminino,29.1,0,no,sudeste,3.761.292
+18,feminino,37.29,1,no,norte,22.194.451
+30,feminino,43.12,2,no,centro oeste,47.536.368
+62,feminino,36.86,1,no,nordeste,3.162.000.106
+57,feminino,34.295,2,no,sudeste,1.322.405.705
+58,feminino,27.17,0,no,sul,122.228.983
+22,masculino,26.84,0,no,norte,16.649.996
+31,feminino,38.095,1,yes,norte,5.857.107.448
+52,masculino,30.2,1,no,norte,9724.53
+25,feminino,23.465,0,no,sul,320.649.135
+59,masculino,25.46,1,no,sudeste,129.139.924
+19,masculino,30.59,0,no,sul,16.395.631
+39,masculino,45.43,2,no,nordeste,63.562.707
+32,feminino,23.65,1,no,centro oeste,1.762.623.951
+19,masculino,20.7,0,no,sudeste,1.242.816
+33,feminino,28.27,1,no,centro oeste,47.796.023
+21,masculino,20.235,3,no,sul,386.120.965
+34,feminino,30.21,1,yes,sudeste,439.438.761
+61,feminino,35.91,0,no,sul,136.356.379
+38,feminino,30.69,1,no,nordeste,59.768.311
+58,feminino,29,0,no,centro oeste,11.842.442
+47,masculino,19.57,1,no,sul,84.280.693
+20,masculino,31.13,2,no,sudeste,25.664.707
+21,feminino,21.85,1,yes,nordeste,153.591.045
+41,masculino,40.26,0,no,nordeste,57.091.644
+46,feminino,33.725,1,no,sudeste,882.398.575
+42,feminino,29.48,2,no,sudeste,76.403.092
+34,feminino,33.25,1,no,centro oeste,55.948.455
+43,masculino,32.6,2,no,norte,7.441.501
+52,feminino,37.525,2,no,sul,3.347.197.189
+18,feminino,39.16,0,no,centro oeste,16.330.444
+51,masculino,31.635,0,no,sudeste,917.413.565
+56,feminino,25.3,0,no,norte,11.070.535
+64,feminino,39.05,3,no,sudeste,160.851.275
+19,feminino,28.31,0,yes,sul,174.689.839
+51,feminino,34.1,0,no,centro oeste,9.283.562
+27,feminino,25.175,0,no,norte,355.862.025
+59,feminino,23.655,0,yes,centro oeste,2.567.877.845
+28,masculino,26.98,2,no,nordeste,44.350.942
+30,masculino,37.8,2,yes,sudeste,39.241.442
+47,feminino,29.37,1,no,sudeste,85.476.913
+38,feminino,34.8,2,no,sul,6.571.544
+18,feminino,33.155,0,no,sul,220.769.745
+34,feminino,19,3,no,sul,6.753.038
+20,feminino,33,0,no,sul,1880.07
+47,feminino,36.63,1,yes,centro oeste,429.698.527
+56,feminino,28.595,0,no,nordeste,1.165.811.505
+49,masculino,25.6,2,yes,sudeste,23.306.547
+19,feminino,33.11,0,yes,nordeste,344.398.559
+55,feminino,37.1,0,no,centro oeste,10.713.644
+30,masculino,31.4,1,no,sudeste,3.659.346
+37,masculino,34.1,4,yes,sudeste,40.182.246
+49,feminino,21.3,1,no,nordeste,9182.17
+18,masculino,33.535,0,yes,sul,3.461.784.065
+59,masculino,28.785,0,no,centro oeste,1.212.961.415
+29,feminino,26.03,0,no,norte,37.364.647
+36,masculino,28.88,3,no,sul,67.485.912
+33,masculino,42.46,1,no,sul,1.132.671.487
+58,masculino,38,0,no,norte,11.365.952
+44,feminino,38.95,0,yes,sul,429.834.585
+53,masculino,36.1,1,no,norte,10.085.846
+24,masculino,29.3,0,no,sul,1.977.815
+29,feminino,35.53,0,no,norte,33.666.697
+40,masculino,22.705,2,no,sudeste,717.335.995
+51,masculino,39.7,1,no,nordeste,9.391.346
+64,masculino,38.19,0,no,sul,144.109.321
+19,feminino,24.51,1,no,sudeste,27.091.119
+35,feminino,38.095,2,no,sudeste,2.491.504.626
+39,masculino,26.41,0,yes,centro oeste,201.493.229
+56,masculino,33.66,4,no,sul,129.491.554
+33,masculino,42.4,5,no,sul,6.666.243
+42,masculino,28.31,3,yes,centro oeste,3.278.745.859
+61,masculino,33.915,0,no,centro oeste,1.314.386.485
+23,feminino,34.96,3,no,norte,44.666.214
+43,masculino,35.31,2,no,sudeste,1.880.614.547
+48,masculino,30.78,3,no,nordeste,101.411.362
+39,masculino,26.22,1,no,centro oeste,61.235.688
+40,feminino,23.37,3,no,centro oeste,82.522.843
+18,masculino,28.5,0,no,nordeste,1.712.227
+58,feminino,32.965,0,no,sul,1.243.095.335
+49,feminino,42.68,2,no,nordeste,98.008.882
+53,feminino,39.6,1,no,sul,10.579.711
+48,feminino,31.13,0,no,sul,82.806.227
+45,feminino,36.3,2,no,norte,8.527.532
+59,feminino,35.2,0,no,sul,12.244.531
+52,feminino,25.3,2,yes,centro oeste,24.667.419
+26,feminino,42.4,1,no,sul,3.410.324
+27,masculino,33.155,2,no,nordeste,405.871.245
+48,feminino,35.91,1,no,nordeste,2.639.226.029
+57,feminino,28.785,4,no,norte,1.439.439.815
+37,masculino,46.53,3,no,sudeste,64.356.237
+57,feminino,23.98,1,no,sudeste,2.219.243.711
+32,feminino,31.54,1,no,nordeste,51.485.526
+18,masculino,33.66,0,no,nordeste,11.363.994
+64,feminino,22.99,0,yes,sudeste,270.379.141
+43,masculino,38.06,2,yes,nordeste,425.604.304
+49,masculino,28.7,1,no,sudeste,8.703.456
+40,feminino,32.775,2,yes,norte,4.000.333.225
+62,masculino,32.015,0,yes,norte,4.571.020.785
+40,feminino,29.81,1,no,nordeste,65.002.359
+30,masculino,31.57,3,no,norte,48.375.823
+29,feminino,31.16,0,no,sul,39.435.954
+36,masculino,29.7,0,no,sudeste,4.399.731
+41,feminino,31.02,0,no,sul,61.853.208
+44,feminino,43.89,2,yes,sudeste,462.009.851
+45,masculino,21.375,0,no,sul,722.278.625
+55,feminino,40.81,3,no,centro oeste,124.858.009
+60,masculino,31.35,3,yes,nordeste,461.305.265
+56,masculino,36.1,3,no,centro oeste,12.363.547
+49,feminino,23.18,2,no,norte,101.567.832
+21,feminino,17.4,1,no,sudeste,2.585.269
+19,masculino,20.3,0,no,norte,1242.26
+39,masculino,35.3,2,yes,sul,40103.89
+53,masculino,24.32,0,no,nordeste,98.634.718
+33,feminino,18.5,1,no,sul,4.766.022
+53,masculino,26.41,2,no,nordeste,112.443.769
+42,masculino,26.125,2,no,sudeste,772.964.575
+40,masculino,41.69,0,no,sudeste,54.387.491
+47,feminino,24.1,1,no,norte,2.623.657.997
+27,masculino,31.13,1,yes,sudeste,348.064.677
+21,masculino,27.36,0,no,nordeste,21.041.134
+47,masculino,36.2,1,no,norte,8.068.185
+20,masculino,32.395,1,no,sul,236.222.905
+24,masculino,23.655,0,no,nordeste,235.296.845
+27,feminino,34.8,1,no,sul,3.577.999
+26,feminino,40.185,0,no,centro oeste,320.124.515
+53,feminino,32.3,2,no,centro oeste,2.918.648.236
+41,masculino,35.75,1,yes,nordeste,402.736.455
+56,masculino,33.725,0,no,centro oeste,1.097.624.575
+23,feminino,39.27,2,no,norte,35.006.123
+21,feminino,34.87,0,no,sudeste,20.205.523
+50,feminino,44.745,0,no,sul,954.169.555
+53,masculino,41.47,0,no,norte,95.043.103
+34,feminino,26.41,1,no,nordeste,53.853.379
+47,feminino,29.545,1,no,norte,893.093.455
+33,feminino,32.9,2,no,sul,5.375.038
+51,feminino,38.06,0,yes,sudeste,444.004.064
+49,masculino,28.69,3,no,sudeste,102.644.421
+31,feminino,30.495,3,no,centro oeste,611.323.105
+36,feminino,27.74,0,no,norte,54.690.066
+18,masculino,35.2,1,no,nordeste,1727.54
+50,feminino,23.54,2,no,sul,101.072.206
+43,feminino,30.685,2,no,sudeste,831.083.915
+20,masculino,40.47,0,no,nordeste,19.844.533
+24,feminino,22.6,0,no,sudeste,2.457.502
+60,masculino,28.9,0,no,nordeste,12.146.971
+49,feminino,22.61,1,no,norte,95.669.909
+60,masculino,24.32,1,no,sudeste,131.126.048
+51,feminino,36.67,2,no,sul,108.481.343
+58,feminino,33.44,0,no,nordeste,122.316.136
+51,feminino,40.66,0,no,centro oeste,98.756.804
+53,masculino,36.6,3,no,centro oeste,11.264.541
+62,masculino,37.4,0,no,sudeste,12.979.358
+19,masculino,35.4,0,no,sul,1.263.249
+50,feminino,27.075,1,no,sul,1.010.613.425
+30,feminino,39.05,3,yes,nordeste,409.324.295
+41,masculino,28.405,1,no,sudeste,666.468.595
+29,feminino,21.755,1,yes,norte,1.665.771.745
+18,feminino,40.28,0,no,nordeste,22.176.012
+41,feminino,36.08,1,no,sudeste,67.813.542
+35,masculino,24.42,3,yes,sul,193.619.988
+53,masculino,21.4,1,no,nordeste,10.065.413
+24,feminino,30.1,3,no,centro oeste,4.234.927
+48,feminino,27.265,1,no,sul,944.725.035
+59,feminino,32.1,3,no,sul,14.007.222
+49,feminino,34.77,1,no,sudeste,95.838.933
+37,feminino,38.39,0,yes,sul,404.190.191
+26,masculino,23.7,2,no,nordeste,3.484.331
+23,masculino,31.73,3,yes,nordeste,361.891.017
+29,masculino,35.5,2,yes,norte,4.458.545.587
+45,masculino,24.035,2,no,sul,860.448.365
+27,masculino,29.15,0,yes,nordeste,182.464.955
+53,masculino,34.105,0,yes,sudeste,4.325.441.795
+31,feminino,26.62,0,no,centro oeste,37.578.448
+50,masculino,26.41,0,no,sudeste,88.272.099
+50,feminino,30.115,1,no,sul,991.035.985
+34,masculino,27,2,no,sudeste,1.173.784.884
+19,masculino,21.755,0,no,norte,162.728.245
+47,feminino,36,1,no,sudeste,8.556.907
+28,masculino,30.875,0,no,sul,306.250.825
+37,feminino,26.4,0,yes,nordeste,19.539.243
+21,masculino,28.975,0,no,nordeste,190.635.825
+64,masculino,37.905,0,no,sudeste,1.421.053.595
+58,feminino,22.77,0,no,nordeste,118.337.823
+24,masculino,33.63,4,no,sudeste,1.712.842.608
+31,masculino,27.645,2,no,sul,503.126.955
+39,feminino,22.8,3,no,sul,7.985.815
+47,feminino,27.83,0,yes,centro oeste,230.654.207
+30,masculino,37.43,3,no,sul,54.287.277
+18,masculino,38.17,0,yes,norte,363.077.983
+22,feminino,34.58,2,no,centro oeste,39.257.582
+23,masculino,35.2,1,no,sudeste,2.416.955
+33,masculino,27.1,1,yes,norte,19.040.876
+27,masculino,26.03,0,no,centro oeste,30.708.087
+45,feminino,25.175,2,no,norte,909.506.825
+57,feminino,31.825,0,no,centro oeste,1.184.262.375
+47,masculino,32.3,1,no,norte,8.062.764
+42,feminino,29,1,no,norte,7.050.642
+64,feminino,39.7,0,no,sul,14.319.031
+38,feminino,19.475,2,no,norte,693.324.225
+61,masculino,36.1,3,no,nordeste,2.794.128.758
+53,feminino,26.7,2,no,centro oeste,11150.78
+44,feminino,36.48,0,no,centro oeste,1.279.720.962
+19,feminino,28.88,0,yes,nordeste,177.485.062
+41,masculino,34.2,2,no,sul,7.261.741
+51,masculino,33.33,3,no,centro oeste,105.604.917
+40,masculino,32.3,2,no,sudeste,6.986.697
+45,masculino,39.805,0,no,centro oeste,744.840.395
+35,masculino,34.32,3,no,centro oeste,59.343.798
+53,masculino,28.88,0,no,norte,98.698.102
+30,masculino,24.4,3,yes,sudeste,18.259.216
+18,masculino,41.14,0,no,centro oeste,11.467.966
+51,masculino,35.97,1,no,sul,93.861.613
+50,feminino,27.6,1,yes,norte,24.520.264
+31,feminino,29.26,1,no,norte,43.505.144
+35,feminino,27.7,3,no,centro oeste,6.414.178
+60,masculino,36.955,0,no,sul,1.274.116.745
+21,masculino,36.86,0,no,centro oeste,19.173.184
+29,masculino,22.515,3,no,nordeste,520.957.885
+62,feminino,29.92,0,no,norte,134.579.608
+39,feminino,41.8,0,no,sul,5.662.225
+19,masculino,27.6,0,no,sul,1.252.407
+22,feminino,23.18,0,no,sul,27.319.122
+53,masculino,20.9,0,yes,nordeste,21.195.818
+39,feminino,31.92,2,no,sul,72.094.918
+27,masculino,28.5,0,yes,norte,18.310.742
+30,masculino,44.22,2,no,sudeste,42.661.658
+30,feminino,22.895,1,no,norte,471.952.405
+58,feminino,33.1,0,no,sudeste,11.848.141
+33,masculino,24.795,0,yes,sul,1.790.452.705
+42,feminino,26.18,1,no,sul,70.467.222
+64,feminino,35.97,0,no,sul,143.138.463
+21,masculino,22.3,1,no,norte,2103.08
+18,feminino,42.24,0,yes,sul,387.926.856
+23,masculino,26.51,0,no,sul,18.158.759
+45,feminino,35.815,0,no,nordeste,773.185.785
+40,feminino,41.42,1,no,norte,2.847.673.499
+19,feminino,36.575,0,no,centro oeste,213.688.225
+18,masculino,30.14,0,no,sudeste,11.315.066
+25,masculino,25.84,1,no,sul,33.097.926
+46,feminino,30.8,3,no,nordeste,9414.92
+33,feminino,42.94,3,no,centro oeste,63.609.936
+54,masculino,21.01,2,no,nordeste,110.137.119
+28,masculino,22.515,2,no,centro oeste,442.888.785
+36,masculino,34.43,2,no,sul,55.843.057
+20,feminino,31.46,0,no,centro oeste,18.779.294
+24,feminino,24.225,0,no,nordeste,284.276.075
+23,masculino,37.1,3,no,nordeste,3.597.596
+47,feminino,26.125,1,yes,centro oeste,2.340.130.575
+33,feminino,35.53,0,yes,norte,5.513.540.209
+45,masculino,33.7,1,no,sul,7.445.918
+26,masculino,17.67,0,no,norte,26.809.493
+18,feminino,31.13,0,no,sul,16.218.827
+44,feminino,29.81,2,no,centro oeste,82.192.039
+60,masculino,24.32,0,no,centro oeste,125.236.048
+64,feminino,31.825,2,no,sudeste,1.606.908.475
+56,masculino,31.79,2,yes,nordeste,438.138.661
+36,masculino,28.025,1,yes,nordeste,2.077.362.775
+41,masculino,30.78,3,yes,nordeste,395.974.072
+39,masculino,21.85,1,no,sul,61.174.945
+63,masculino,33.1,0,no,sudeste,13.393.756
+36,feminino,25.84,0,no,sul,52.663.656
+28,feminino,23.845,2,no,nordeste,471.973.655
+58,masculino,34.39,0,no,norte,117.439.341
+36,masculino,33.82,1,no,norte,53.774.578
+42,masculino,35.97,2,no,norte,71.603.303
+36,masculino,31.5,0,no,sul,4.402.233
+56,feminino,28.31,0,no,nordeste,116.577.189
+35,feminino,23.465,2,no,sudeste,640.229.135
+59,feminino,31.35,0,no,nordeste,126.221.795
+21,masculino,31.1,0,no,centro oeste,1.526.312
+59,masculino,24.7,0,no,sudeste,12.323.936
+23,feminino,32.78,2,yes,sudeste,360.210.112
+57,feminino,29.81,0,yes,norte,275.339.129
+53,masculino,30.495,0,no,centro oeste,1.007.205.505
+60,feminino,32.45,0,yes,sul,450.089.555
+51,feminino,34.2,1,no,centro oeste,9.872.701
+23,masculino,50.38,1,no,sudeste,24.380.552
+27,feminino,24.1,0,no,norte,2.974.126
+55,masculino,32.775,0,no,sudeste,1.060.163.225
+37,feminino,30.78,0,yes,centro oeste,372.701.512
+61,masculino,32.3,2,no,norte,14119.62
+46,feminino,35.53,0,yes,nordeste,421.116.647
+53,feminino,23.75,2,no,centro oeste,117.296.795
+49,feminino,23.845,3,yes,centro oeste,2.410.691.255
+20,feminino,29.6,0,no,nordeste,1.875.344
+48,feminino,33.11,0,yes,norte,409.741.649
+25,masculino,24.13,0,yes,norte,158.179.857
+25,feminino,32.23,1,no,centro oeste,1.821.816.139
+57,masculino,28.1,0,no,sul,10.965.446
+37,feminino,47.6,2,yes,centro oeste,46.113.511
+38,feminino,28,3,no,sudeste,7.151.092
+55,feminino,33.535,2,no,norte,1.226.968.865
+36,feminino,19.855,0,no,sudeste,545.804.645
+51,masculino,25.4,0,no,sul,8.782.469
+40,masculino,29.9,2,no,norte,6.600.361
+18,masculino,37.29,0,no,sul,11.414.451
+57,masculino,43.7,1,no,sudeste,11576.13
+61,masculino,23.655,0,no,centro oeste,1.312.960.345
+25,feminino,24.3,3,no,sudeste,4.391.652
+50,masculino,36.2,0,no,norte,8.457.818
+26,feminino,29.48,1,no,sudeste,33.923.652
+42,masculino,24.86,0,no,centro oeste,59.668.874
+43,masculino,30.1,1,no,sudeste,6.849.026
+44,masculino,21.85,3,no,sudeste,88.911.395
+23,feminino,28.12,0,no,norte,26.901.138
+49,feminino,27.1,1,no,sudeste,261.403.603
+33,masculino,33.44,5,no,sul,66.537.886
+41,masculino,28.8,1,no,sul,6.282.235
+37,feminino,29.5,2,no,sul,6.311.952
+22,masculino,34.8,3,no,centro oeste,3.443.064
+23,masculino,27.36,1,no,norte,27.890.574
+21,feminino,22.135,0,no,nordeste,258.585.065
+51,feminino,37.05,3,yes,sudeste,462.551.125
+25,masculino,26.695,4,no,norte,487.798.105
+32,masculino,28.93,1,yes,centro oeste,197.196.947
+57,masculino,28.975,0,yes,nordeste,2.721.843.725
+36,feminino,30.02,0,no,norte,52.721.758
+22,masculino,39.5,0,no,centro oeste,1.682.597
+57,masculino,33.63,1,no,nordeste,119.451.327
+64,feminino,26.885,0,yes,nordeste,2.933.098.315
+36,feminino,29.04,4,no,sul,72.438.136
+54,masculino,24.035,0,no,sul,1.042.291.665
+47,masculino,38.94,2,yes,sudeste,442.026.536
+62,masculino,32.11,0,no,sudeste,135.550.049
+61,feminino,44,0,no,nordeste,13.063.883
+43,feminino,20.045,2,yes,nordeste,1.979.805.455
+19,masculino,25.555,1,no,sul,222.156.445
+18,feminino,40.26,0,no,sudeste,16.345.734
+19,feminino,22.515,0,no,norte,211.733.885
+49,masculino,22.515,0,no,norte,868.885.885
+60,masculino,40.92,0,yes,sudeste,486.735.588
+26,masculino,27.265,3,no,norte,466.128.635
+49,masculino,36.85,0,no,sul,81.257.845
+60,feminino,35.1,0,no,sul,12.644.589
+26,feminino,29.355,2,no,centro oeste,456.419.145
+27,masculino,32.585,3,no,sul,484.692.015
+44,feminino,32.34,1,no,nordeste,76.337.206
+63,masculino,39.8,3,no,sul,15.170.069
+32,feminino,24.6,0,yes,nordeste,17.496.306
+22,masculino,28.31,1,no,sudeste,26.390.429
+18,masculino,31.73,0,yes,sudeste,337.326.867
+59,feminino,26.695,3,no,nordeste,1.438.270.905
+44,feminino,27.5,1,no,sudeste,7.626.993
+33,masculino,24.605,2,no,sudeste,525.750.795
+24,feminino,33.99,0,no,nordeste,24.733.341
+43,feminino,26.885,0,yes,centro oeste,2.177.432.215
+45,masculino,22.895,0,yes,centro oeste,3.506.937.452
+61,feminino,28.2,0,no,sudeste,13.041.921
+35,feminino,34.21,1,no,sul,52.452.269
+62,feminino,25,0,no,sul,13.451.122
+62,feminino,33.2,0,no,sudeste,13462.52
+38,masculino,31,1,no,centro oeste,5.488.262
+34,masculino,35.815,0,no,centro oeste,432.041.085
+43,masculino,23.2,0,no,nordeste,6.250.435
+50,masculino,32.11,2,no,centro oeste,2.533.333.284
+19,feminino,23.4,2,no,centro oeste,2.913.569
+57,feminino,20.1,1,no,sudeste,12.032.326
+62,feminino,39.16,0,no,sul,134.708.044
+41,masculino,34.21,1,no,nordeste,62.897.549
+26,masculino,46.53,1,no,nordeste,29.270.647
+39,feminino,32.5,1,no,norte,6.238.298
+46,masculino,25.8,5,no,norte,10096.97
+45,feminino,35.3,0,no,nordeste,7.348.142
+32,masculino,37.18,2,no,norte,46.733.922
+59,feminino,27.5,0,no,sul,12.233.828
+44,masculino,29.735,2,no,sudeste,3.210.866.282
+39,feminino,24.225,5,no,sudeste,896.579.575
+18,masculino,26.18,2,no,sudeste,23.040.022
+53,masculino,29.48,0,no,nordeste,94.876.442
+18,masculino,23.21,0,no,centro oeste,11.218.739
+50,feminino,46.09,1,no,centro oeste,95.495.651
+18,feminino,40.185,0,no,sul,221.746.915
+19,masculino,22.61,0,no,norte,16.284.709
+62,masculino,39.93,0,no,sudeste,129.828.747
+56,feminino,35.8,1,no,norte,11674.13
+42,masculino,35.8,2,no,centro oeste,7.160.094
+37,masculino,34.2,1,yes,sudeste,39.047.285
+42,masculino,31.255,0,no,sudeste,635.877.645
+25,masculino,29.7,3,yes,nordeste,19.933.458
+57,masculino,18.335,0,no,norte,1.153.487.265
+51,masculino,42.9,2,yes,sudeste,47.462.894
+30,feminino,28.405,1,no,sul,452.718.295
+44,masculino,30.2,2,yes,norte,38.998.546
+34,masculino,27.835,1,yes,sul,2.000.963.365
+31,masculino,39.49,1,no,centro oeste,38.757.341
+54,masculino,30.8,1,yes,centro oeste,41999.52
+24,masculino,26.79,1,no,sul,1.260.988.702
+43,masculino,34.96,1,yes,sudeste,410.342.214
+48,masculino,36.67,1,no,sudeste,2.846.891.901
+19,feminino,39.615,1,no,sudeste,273.010.785
+29,feminino,25.9,0,no,sul,3.353.284
+63,feminino,35.2,1,no,sul,14.474.675
+46,masculino,24.795,3,no,centro oeste,950.057.305
+52,masculino,36.765,2,no,centro oeste,2.646.709.737
+35,masculino,27.1,1,no,sul,4.746.344
+51,masculino,24.795,2,yes,norte,2.396.738.305
+44,masculino,25.365,1,no,sudeste,751.802.535
+21,masculino,25.745,2,no,sudeste,327.986.855
+39,feminino,34.32,5,no,sul,85.968.278
+50,feminino,28.16,3,no,nordeste,107.026.424
+34,feminino,23.56,0,no,norte,49.923.764
+22,feminino,20.235,0,no,centro oeste,252.781.865
+19,feminino,40.5,0,no,norte,1.759.338
+26,masculino,35.42,0,no,sul,23.226.218
+29,masculino,22.895,0,yes,norte,1.613.876.205
+48,masculino,40.15,0,no,sul,78.041.605
+26,masculino,29.15,1,no,sudeste,29.029.065
+45,feminino,39.995,3,no,centro oeste,970.466.805
+36,feminino,29.92,0,no,nordeste,48.890.368
+54,masculino,25.46,1,no,norte,2.551.711.363
+34,masculino,21.375,0,no,nordeste,450.033.925
+31,masculino,25.9,3,yes,sudeste,19.199.944
+27,feminino,30.59,1,no,nordeste,1.679.641.194
+20,masculino,30.115,5,no,centro oeste,491.505.985
+44,feminino,25.8,1,no,sudeste,7624.63
+43,masculino,30.115,3,no,nordeste,841.004.685
+45,feminino,27.645,1,no,norte,2.834.018.885
+34,masculino,34.675,0,no,norte,451.882.625
+24,feminino,20.52,0,yes,centro oeste,145.718.908
+26,feminino,19.8,1,no,norte,3378.91
+38,feminino,27.835,2,no,sul,714.486.265
+50,feminino,31.6,2,no,norte,10.118.424
+38,masculino,28.27,1,no,sul,54.844.673
+27,feminino,20.045,3,yes,centro oeste,1.642.049.455
+39,feminino,23.275,3,no,sudeste,798.647.525
+39,feminino,34.1,3,no,centro oeste,7.418.522
+63,feminino,36.85,0,no,sudeste,138.879.685
+33,feminino,36.29,3,no,sul,65.517.501
+36,feminino,26.885,0,no,centro oeste,526.781.815
+30,masculino,22.99,2,yes,sul,173.617.661
+24,masculino,32.7,0,yes,centro oeste,34.472.841
+24,masculino,25.8,0,no,norte,1972.95
+48,masculino,29.6,0,no,sul,2.123.218.226
+47,masculino,19.19,1,no,sul,86.275.411
+29,masculino,31.73,2,no,sul,44.333.877
+28,masculino,29.26,2,no,centro oeste,44.382.634
+47,masculino,28.215,3,yes,norte,2.491.522.085
+25,masculino,24.985,2,no,sul,2.324.147.453
+51,masculino,27.74,1,no,nordeste,99.577.216
+48,feminino,22.8,0,no,sul,8.269.044
+43,masculino,20.13,2,yes,centro oeste,187.677.377
+61,feminino,33.33,4,no,centro oeste,3.658.028.216
+48,masculino,32.3,1,no,sudeste,8.765.249
+38,feminino,27.6,0,no,centro oeste,5.383.536
+59,masculino,25.46,0,no,nordeste,121.249.924
+19,feminino,24.605,1,no,nordeste,270.924.395
+26,feminino,34.2,2,no,sudeste,3.987.926
+54,feminino,35.815,3,no,nordeste,1.249.529.085
+21,feminino,32.68,2,no,norte,2.601.895.052
+51,masculino,37,0,no,norte,8.798.593
+22,feminino,31.02,3,yes,nordeste,355.955.898
+47,masculino,36.08,1,yes,nordeste,422.111.382
+18,masculino,23.32,1,no,norte,17.110.268
+47,feminino,45.32,1,no,sul,85.698.618
+21,feminino,34.6,0,no,norte,2.020.177
+19,masculino,26.03,1,yes,sul,164.508.947
+23,masculino,18.715,0,no,norte,2.159.538.229
+54,masculino,31.6,0,no,sul,9.850.432
+37,feminino,17.29,2,no,centro oeste,68.779.801
+46,feminino,23.655,1,yes,sul,2.167.728.345
+55,feminino,35.2,0,yes,sul,44.423.803
+30,feminino,27.93,0,no,nordeste,41.375.227
+18,masculino,21.565,0,yes,sul,1.374.787.235
+61,masculino,38.38,0,no,centro oeste,129.500.712
+54,feminino,23,3,no,centro oeste,12.094.478
+22,masculino,37.07,2,yes,sul,374.844.493
+45,feminino,30.495,1,yes,sudeste,3.972.551.805
+22,masculino,28.88,0,no,norte,22.508.352
+19,masculino,27.265,2,no,norte,2.249.365.964
+35,feminino,28.025,0,yes,nordeste,2.023.485.475
+18,masculino,23.085,0,no,sudeste,170.470.015
+20,masculino,30.685,0,yes,sul,3.347.581.715
+28,feminino,25.8,0,no,sul,3.161.454
+55,masculino,35.245,1,no,sudeste,1.139.406.555
+43,feminino,24.7,2,yes,centro oeste,21880.82
+43,feminino,25.08,0,no,sudeste,73.250.482
+22,masculino,52.58,1,yes,centro oeste,445.013.982
+25,feminino,22.515,1,no,sul,359.417.085
+49,masculino,30.9,0,yes,sul,39.727.614
+44,feminino,36.955,1,no,centro oeste,802.313.545
+64,masculino,26.41,0,no,sudeste,143.945.579
+49,masculino,29.83,1,no,sudeste,92.880.267
+47,masculino,29.8,3,yes,nordeste,25.309.489
+27,feminino,21.47,0,no,nordeste,33.534.703
+55,masculino,27.645,0,no,norte,1.059.450.155
+48,feminino,28.9,0,no,nordeste,8.277.523
+45,feminino,31.79,0,no,sul,1.792.930.337
+24,feminino,39.49,0,no,sul,24.809.791
+32,masculino,33.82,1,no,centro oeste,44.627.218
+24,masculino,32.01,0,no,nordeste,19.815.819
+57,masculino,27.94,1,no,sudeste,115.542.236
+59,masculino,41.14,1,yes,sul,489.702.476
+36,masculino,28.595,3,no,centro oeste,654.819.505
+29,feminino,25.6,4,no,sul,5.708.867
+42,feminino,25.3,1,no,nordeste,7.045.499
+48,masculino,37.29,2,no,norte,89.781.851
+39,masculino,42.655,0,no,nordeste,575.741.345
+63,masculino,21.66,1,no,centro oeste,143.498.544
+54,feminino,31.9,1,no,centro oeste,10.928.849
+37,masculino,37.07,1,yes,norte,398.717.043
+63,masculino,31.445,0,no,sul,1.397.445.555
+21,masculino,31.255,0,no,nordeste,190.952.745
+54,feminino,28.88,2,no,norte,120.966.512
+60,feminino,18.335,0,no,sudeste,1.320.428.565
+32,feminino,29.59,1,no,nordeste,45.628.421
+47,feminino,32,1,no,sul,8.551.347
+21,masculino,26.03,0,no,sudeste,21.022.647
+28,masculino,31.68,0,yes,sudeste,346.721.472
+63,masculino,33.66,3,no,centro oeste,151.615.344
+18,masculino,21.78,2,no,nordeste,1.188.404.858
+32,masculino,27.835,1,no,sudeste,445.440.265
+38,masculino,19.95,1,no,nordeste,58.559.025
+32,masculino,31.5,1,no,sudeste,4.076.497
+62,feminino,30.495,2,no,nordeste,1.501.976.005
+39,feminino,18.3,5,yes,sudeste,19023.26
+55,masculino,28.975,0,no,sul,1.079.635.025
+57,masculino,31.54,0,no,sul,113.532.276
+52,masculino,47.74,1,no,norte,97.489.106
+56,masculino,22.1,0,no,norte,10.577.087
+47,masculino,36.19,0,yes,sudeste,416.760.811
+55,feminino,29.83,0,no,nordeste,112.865.387
+23,masculino,32.7,3,no,sul,3591.48
+22,feminino,30.4,0,yes,centro oeste,33.907.548
+50,feminino,33.7,4,no,sul,11.299.343
+18,feminino,31.35,4,no,nordeste,45.611.885
+51,feminino,34.96,2,yes,sul,446.411.974
+22,masculino,33.77,0,no,sudeste,16.746.323
+52,feminino,30.875,0,no,nordeste,2.304.556.616
+25,feminino,33.99,1,no,sudeste,32.271.211
+33,feminino,19.095,2,yes,norte,1.677.630.405
+53,masculino,28.6,3,no,centro oeste,11.253.421
+29,masculino,38.94,1,no,centro oeste,34.714.096
+58,masculino,36.08,0,no,norte,113.632.832
+37,masculino,29.8,0,no,nordeste,2.042.060.465
+54,feminino,31.24,0,no,norte,103.389.316
+49,feminino,29.925,0,no,sudeste,898.815.875
+50,feminino,26.22,2,no,sudeste,104.939.458
+26,masculino,30,1,no,norte,2.904.088
+45,masculino,20.35,3,no,centro oeste,86.053.615
+54,feminino,32.3,1,no,sudeste,11.512.405
+38,masculino,38.39,3,yes,centro oeste,419.492.441
+48,feminino,25.85,3,yes,sul,241.809.335
+28,feminino,26.315,3,no,sudeste,531.216.985
+23,masculino,24.51,0,no,sudeste,23.960.959
+55,masculino,32.67,1,no,norte,108.074.863
+41,masculino,29.64,5,no,centro oeste,92.224.026
+25,masculino,33.33,2,yes,centro oeste,361.245.737
+33,masculino,35.75,1,yes,sul,382.827.495
+30,feminino,19.95,3,no,nordeste,56.934.305
+23,feminino,31.4,0,yes,norte,34.166.273
+46,masculino,38.17,2,no,centro oeste,83.471.643
+53,feminino,36.86,3,yes,norte,466.614.424
+27,feminino,32.395,1,no,centro oeste,1.890.349.141
+23,feminino,42.75,1,yes,nordeste,409.041.995
+63,feminino,25.08,0,no,norte,142.546.082
+55,masculino,29.9,0,no,centro oeste,10.214.636
+35,feminino,35.86,2,no,nordeste,58.365.204
+34,masculino,32.8,1,no,sudeste,1.435.836.437
+19,feminino,18.6,0,no,centro oeste,1.728.897
+39,feminino,23.87,5,no,sul,85.823.023
+27,masculino,45.9,2,no,sul,3.693.428
+57,masculino,40.28,0,no,centro oeste,2.070.902.034
+52,feminino,18.335,0,no,norte,999.103.765
+28,masculino,33.82,0,no,norte,1.967.333.573
+50,feminino,28.12,3,no,sudeste,110.855.868
+44,feminino,25,1,no,nordeste,7.623.518
+26,feminino,22.23,0,no,sudeste,31.762.877
+33,masculino,30.25,0,no,centro oeste,37.043.545
+19,feminino,32.49,0,yes,centro oeste,3.689.873.308
+50,masculino,37.07,1,no,centro oeste,90.480.273
+41,feminino,32.6,3,no,sul,7.954.517
+52,feminino,24.86,0,no,norte,2.711.799.378
+39,masculino,32.34,2,no,sul,63.380.756
+50,masculino,32.3,2,no,nordeste,9.630.397
+52,masculino,32.775,3,no,sudeste,1.128.910.925
+60,masculino,32.8,0,yes,nordeste,5.259.082.939
+20,feminino,31.92,0,no,sudeste,22.615.688
+55,masculino,21.5,1,no,norte,10791.96
+42,masculino,34.1,0,no,sudeste,5.979.731
+18,feminino,30.305,0,no,nordeste,220.373.595
+58,feminino,36.48,0,no,sudeste,122.358.392
+43,feminino,32.56,3,yes,centro oeste,409.412.854
+35,feminino,35.815,1,no,norte,563.045.785
+48,feminino,27.93,4,no,nordeste,110.151.747
+36,feminino,22.135,3,no,sul,722.821.565
+19,masculino,44.88,0,yes,sul,397.227.462
+23,feminino,23.18,2,no,centro oeste,1.442.607.385
+20,feminino,30.59,0,no,centro oeste,24.597.201
+32,feminino,41.1,0,no,sul,3.989.841
+43,feminino,34.58,1,no,sudeste,77.272.532
+34,masculino,42.13,2,no,norte,51.241.887
+30,masculino,38.83,1,no,sul,1.896.317.192
+18,feminino,28.215,0,no,centro oeste,220.083.085
+41,feminino,28.31,1,no,sudeste,71.535.539
+35,feminino,26.125,0,no,centro oeste,522.798.875
+57,masculino,40.37,0,no,sul,109.825.013
+29,feminino,24.6,2,no,centro oeste,4.529.477
+32,masculino,35.2,2,no,sudeste,4670.64
+37,feminino,34.105,1,no,centro oeste,611.235.295
+18,masculino,27.36,1,yes,nordeste,171.786.824
+43,feminino,26.7,2,yes,nordeste,22478.6
+56,feminino,41.91,0,no,norte,110.936.229
+38,masculino,29.26,2,no,sudeste,64.578.434
+29,masculino,32.11,2,no,sudeste,44.339.159
+22,feminino,27.1,0,no,sul,2.154.361
+52,feminino,24.13,1,yes,centro oeste,238.876.627
+40,feminino,27.4,1,no,sudeste,6.496.886
+23,feminino,34.865,0,no,norte,289.948.935
+31,masculino,29.81,0,yes,norte,193.503.689
+42,feminino,41.325,1,no,centro oeste,765.077.375
+24,feminino,29.925,0,no,sul,285.068.375
+25,feminino,30.3,0,no,nordeste,2.632.992
+48,feminino,27.36,1,no,sudeste,94.473.824
+23,feminino,28.49,1,yes,centro oeste,183.282.381
+45,masculino,23.56,2,no,sudeste,86.038.234
+20,masculino,35.625,3,yes,nordeste,3.746.534.375
+62,feminino,32.68,0,no,sudeste,138.447.972
+43,feminino,25.27,1,yes,centro oeste,217.713.423
+23,feminino,28,0,no,sudeste,1.312.667.745
+31,feminino,32.775,2,no,sul,532.740.025
+41,feminino,21.755,1,no,centro oeste,1.372.547.184
+58,feminino,32.395,1,no,sudeste,1.301.916.105
+48,feminino,36.575,0,no,sudeste,867.119.125
+31,feminino,21.755,0,no,sudeste,413.408.245
+19,feminino,27.93,3,no,nordeste,1.883.870.366
+19,feminino,30.02,0,yes,sul,333.075.508
+41,masculino,33.55,0,no,norte,56.998.375
+40,masculino,29.355,1,no,centro oeste,639.360.345
+31,feminino,25.8,2,no,nordeste,4.934.705
+37,masculino,24.32,2,no,centro oeste,61.987.518
+46,masculino,40.375,2,no,nordeste,873.322.925
+22,masculino,32.11,0,no,nordeste,20.553.249
+51,masculino,32.3,1,no,nordeste,9964.06
+18,feminino,27.28,3,yes,centro oeste,182.234.512
+35,masculino,17.86,1,no,sudeste,51.165.004
+59,feminino,34.8,2,no,norte,3.691.060.803
+36,masculino,33.4,2,yes,nordeste,38.415.474
+37,feminino,25.555,1,yes,centro oeste,2.029.686.345
+59,masculino,37.1,1,no,norte,12.347.172
+36,masculino,30.875,1,no,sul,537.336.425
+39,masculino,34.1,2,no,centro oeste,2.356.301.618
+18,masculino,21.47,0,no,sudeste,17.024.553
+52,feminino,33.3,2,no,sul,10.806.839
+27,feminino,31.255,1,no,norte,395.607.145
+18,masculino,39.14,0,no,nordeste,1.289.005.765
+40,masculino,25.08,0,no,sul,54.156.612
+29,masculino,37.29,2,no,sul,40.581.161
+46,feminino,34.6,1,yes,centro oeste,41.661.602
+38,feminino,30.21,3,no,sul,75.371.639
+30,feminino,21.945,1,no,sudeste,471.820.355
+40,masculino,24.97,2,no,sul,65.935.083
+50,masculino,25.3,0,no,sudeste,8.442.667
+20,feminino,24.42,0,yes,sudeste,2.612.567.477
+41,masculino,23.94,1,no,sudeste,68.584.796
+33,feminino,39.82,1,no,sudeste,47.956.568
+38,masculino,16.815,2,no,sudeste,664.054.485
+42,masculino,37.18,2,no,nordeste,71.620.122
+56,masculino,34.43,0,no,centro oeste,105.942.257
+58,masculino,30.305,0,no,nordeste,1.193.825.595
+52,masculino,34.485,3,yes,centro oeste,6.002.139.897
+20,feminino,21.8,0,yes,sudeste,2.016.733.603
+54,feminino,24.605,3,no,sul,1.247.970.895
+58,masculino,23.3,0,no,sudeste,11.345.519
+45,feminino,27.83,2,no,centro oeste,85.157.587
+26,masculino,31.065,0,no,sudeste,269.956.835
+63,feminino,21.66,0,no,norte,144.498.544
+58,feminino,28.215,0,no,sudeste,1.222.435.085
+37,masculino,22.705,3,no,sul,698.550.695
+25,feminino,42.13,1,no,sudeste,32.384.357
+52,masculino,41.8,2,yes,sudeste,47.269.854
+64,masculino,36.96,2,yes,sul,495.776.624
+22,feminino,21.28,3,no,centro oeste,42.962.712
+28,feminino,33.11,0,no,centro oeste,31.716.149
+18,masculino,33.33,0,no,centro oeste,11.359.407
+28,masculino,24.3,5,no,nordeste,5.615.369
+45,feminino,25.7,3,no,sul,9.101.798
+33,masculino,29.4,4,no,sudeste,6.059.173
+18,feminino,39.82,0,no,nordeste,16.339.618
+32,masculino,33.63,1,yes,sul,376.075.277
+24,masculino,29.83,0,yes,sul,186.484.217
+19,masculino,19.8,0,no,sul,1.241.565
+20,masculino,27.3,0,yes,nordeste,16.232.847
+40,feminino,29.3,4,no,sudeste,1.582.882.173
+34,feminino,27.72,0,no,sudeste,44.151.588
+42,feminino,37.9,0,no,centro oeste,6.474.013
+51,feminino,36.385,3,no,norte,1.143.673.815
+54,feminino,27.645,1,no,nordeste,1.130.593.455
+55,masculino,37.715,3,no,nordeste,3.006.358.055
+52,feminino,23.18,0,no,nordeste,101.977.722
+32,feminino,20.52,0,no,nordeste,45.442.348
+28,masculino,37.1,1,no,sudeste,3.277.161
+41,feminino,28.05,1,no,centro oeste,67.701.925
+43,feminino,29.9,1,no,centro oeste,7.337.748
+49,feminino,33.345,2,no,sudeste,1.037.091.255
+64,masculino,23.76,0,yes,norte,269.265.144
+55,feminino,30.5,0,no,nordeste,10704.47
+24,masculino,31.065,0,yes,sul,3.425.405.335
+20,feminino,33.3,0,no,norte,1.880.487
+45,masculino,27.5,3,no,sul,8615.3
+26,masculino,33.915,1,no,centro oeste,329.252.985
+25,feminino,34.485,0,no,sul,302.180.915
+43,masculino,25.52,5,no,centro oeste,1.447.833.015
+35,masculino,27.61,1,no,sudeste,47.470.529
+26,masculino,27.06,0,yes,sudeste,170.433.414
+57,masculino,23.7,0,no,nordeste,10959.33
+22,feminino,30.4,0,no,norte,2.741.948
+32,feminino,29.735,0,no,nordeste,435.704.365
+39,masculino,29.925,1,yes,sudeste,2.246.204.375
+25,feminino,26.79,2,no,nordeste,41.891.131
+48,feminino,33.33,0,no,nordeste,82.836.807
+47,feminino,27.645,2,yes,norte,2.453.569.855
+18,feminino,21.66,0,yes,sul,142.834.594
+18,masculino,30.03,1,no,centro oeste,17.203.537
+61,masculino,36.3,1,yes,sul,47403.88
+47,feminino,24.32,0,no,centro oeste,85.346.718
+28,feminino,17.29,0,no,nordeste,37.326.251
+36,feminino,25.9,1,no,sudeste,5.472.449
+20,masculino,39.4,2,yes,nordeste,38.344.566
+44,masculino,34.32,1,no,sudeste,71.474.728
+38,feminino,19.95,2,no,nordeste,71.339.025
+19,masculino,34.9,0,yes,sul,34.828.654
+21,masculino,23.21,0,no,nordeste,15.153.449
+46,masculino,25.745,3,no,sudeste,930.189.355
+58,masculino,25.175,0,no,sul,1.193.112.525
+20,masculino,22,1,no,nordeste,1964.78
+18,masculino,26.125,0,no,nordeste,170.892.575
+28,feminino,26.51,2,no,centro oeste,43.404.409
+33,masculino,27.455,2,no,nordeste,526.146.945
+19,feminino,25.745,1,no,centro oeste,271.082.855
+45,masculino,30.36,0,yes,sul,6.259.287.309
+62,masculino,30.875,3,yes,sul,4.671.816.325
+25,feminino,20.8,1,no,norte,3.208.787
+43,masculino,27.8,0,yes,sudeste,378.297.242
+42,masculino,24.605,2,yes,sudeste,2.125.937.795
+24,feminino,27.72,0,no,sudeste,24.646.188
+29,feminino,21.85,0,yes,sudeste,161.153.045
+32,masculino,28.12,4,yes,centro oeste,214.724.788
+25,feminino,30.2,0,yes,nordeste,33.900.653
+41,masculino,32.2,2,no,centro oeste,6.875.961
+42,masculino,26.315,1,no,centro oeste,694.090.985
+33,feminino,26.695,0,no,centro oeste,457.141.305
+34,masculino,42.9,1,no,sul,4.536.259
+19,feminino,34.7,2,yes,centro oeste,36.397.576
+30,feminino,23.655,3,yes,centro oeste,1.876.587.545
+18,masculino,28.31,1,no,sul,1.127.233.139
+19,feminino,20.6,0,no,sudeste,1.731.677
+18,masculino,53.13,0,no,sudeste,11.634.627
+35,masculino,39.71,4,no,sul,1.949.671.917
+39,feminino,26.315,2,no,nordeste,720.170.085
+31,masculino,31.065,3,no,nordeste,542.502.335
+62,masculino,26.695,0,yes,norte,2.810.133.305
+62,masculino,38.83,0,no,sul,129.813.457
+42,feminino,40.37,2,yes,sul,438.963.763
+31,masculino,25.935,1,no,sul,423.989.265
+61,masculino,33.535,0,no,sul,1.314.333.665
+42,feminino,32.87,0,no,norte,70.500.213
+51,masculino,30.03,1,no,sudeste,93.779.047
+23,feminino,24.225,2,no,nordeste,2.239.574.424
+52,masculino,38.6,2,no,norte,10.325.206
+57,feminino,25.74,2,no,sudeste,126.291.656
+23,feminino,33.4,0,no,centro oeste,1.079.593.733
+52,feminino,44.7,3,no,sudeste,11.411.685
+50,masculino,30.97,3,no,norte,106.005.483
+18,feminino,31.92,0,no,sul,22.059.808
+18,feminino,36.85,0,no,sudeste,16.298.335
+21,feminino,25.8,0,no,norte,2.007.945
+61,feminino,29.07,0,yes,sul,291.413.603
