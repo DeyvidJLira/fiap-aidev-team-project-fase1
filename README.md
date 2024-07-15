@@ -18,9 +18,12 @@ Você é um profissional encarregado de desenvolver um modelo preditivo de regre
 
 # Estratégia de desenvolvimento
 Cada integrante da equipe ficou de fazer um estudo inicial particular para a partir do dia 15/07/2024 realizar um debate conjunto e definir o caminho a seguir.
-O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CURSO_IA_ML/blob/main/insurance.csv), que foi adaptado para o contexto do brasil no sentido de regiões, atualizado seus rótulos e atualizado os válores.
+O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CURSO_IA_ML/blob/main/insurance.csv), que foi adaptado para o contexto do brasil no sentido de regiões, tradução e ajustado os valores.
 
 # Estudos iniciais
-- https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/abimael
-- https://github.com/DeyvidJLira/fiap-iadev-project-fase1
+- [Estudo por Abimael](https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/abimael)
+- [Estudo por Anne](https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/ac/tech-challenge-fiap)
+- [Estudo por Deyvid](https://github.com/DeyvidJLira/fiap-iadev-project-fase1)
+- [Estudo por Lucas]
+- [Estudo por Thiago]
 
