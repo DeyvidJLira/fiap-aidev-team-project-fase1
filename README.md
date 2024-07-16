@@ -22,8 +22,10 @@ O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CU
 
 # Estudos iniciais
 - [Estudo por Abimael](https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/abimael)
-- [Estudo por Anne](https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/ac/tech-challenge-fiap)
+- [Estudo por Anne](https://github.com/DeyvidJLira/fiap-aidev-team-project-fase1/tree/anne)
 - [Estudo por Deyvid](https://github.com/DeyvidJLira/fiap-iadev-project-fase1)
-- [Estudo por Lucas]
+- Estudos por Lucas:
+  - [Estudo 1](https://colab.research.google.com/drive/1lGsgvNWvoc5h4TruXKfTWEzljGHvqHQ9?usp=sharing)
+  - [Estudo 2](https://colab.research.google.com/drive/1-Cxv62olOdSXTzT_WWAqQRcN_zlWfzX0?usp=sharing)
 - [Estudo por Thiago]
 
