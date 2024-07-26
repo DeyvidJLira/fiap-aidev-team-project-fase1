@@ -29,3 +29,11 @@ O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CU
   - [Estudo 2](https://colab.research.google.com/drive/1-Cxv62olOdSXTzT_WWAqQRcN_zlWfzX0?usp=sharing)
 - [Estudo por Thiago]
 
+## Como estar organizado
+O projeto é formado pelas seguintes pastas e arquivos, com os respectivos propósitos:
+> - data -> destinado à conter arquivos de dados, no caso em csv;
+>> - raw.csv -> arquivo de dados base;
+> - src -> destinado à conter código fonte do projeto.
+>> - save_model_manager.py -> manager para salvar e carregar modelos;
+>> - train_models.py -> contém as classes para treinamento de modelo;
+>> - util.py -> contém classe utilitária para cálculos.
