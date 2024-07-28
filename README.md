@@ -16,6 +16,13 @@ Você é um profissional encarregado de desenvolver um modelo preditivo de regre
 > 46,masculino,25.857394655216346,1,não,nordeste,26650.702646642694
 > 32,masculino,23.014839993647488,0,não,sudoeste,21459.03799039332
 
+## Quer ver no Google Colab?
+[![Ver no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FMgEsQIjyI9aRKMShcE2MrBIQeLsXKFi?usp=sharing)
+
+## Rodando a aplicação (form)
+> - Basta executar todos os scripts contidos em *Passo 0: Setup*;
+> - Executar a função *build_and_start_app()*.
+
 # Estratégia de desenvolvimento
 Cada integrante da equipe ficou de fazer um estudo inicial particular para a partir do dia 15/07/2024 realizar um debate conjunto e definir o caminho a seguir.
 O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CURSO_IA_ML/blob/main/insurance.csv), que foi adaptado para o contexto do brasil no sentido de regiões, tradução e ajustado os valores.
