@@ -27,7 +27,7 @@ O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CU
 - Estudos por Lucas:
   - [Estudo 1](https://colab.research.google.com/drive/1lGsgvNWvoc5h4TruXKfTWEzljGHvqHQ9?usp=sharing)
   - [Estudo 2](https://colab.research.google.com/drive/1-Cxv62olOdSXTzT_WWAqQRcN_zlWfzX0?usp=sharing)
-- [Estudo por Thiago]
+- [Estudo por Thiago](https://colab.research.google.com/drive/1OctIvG-iLKdAPtq6CMEN-HrUoKMD78jA?usp=sharing)
 
 ## Como estar organizado
 O projeto é formado pelas seguintes pastas e arquivos, com os respectivos propósitos:
