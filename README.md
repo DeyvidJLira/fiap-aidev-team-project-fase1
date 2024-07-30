@@ -37,9 +37,9 @@ O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CU
 
 ## Como estar organizado
 O projeto é formado pelas seguintes pastas e arquivos, com os respectivos propósitos:
-> - data -> destinado à conter arquivos de dados, no caso em csv;
+> - data -> destinado a conter arquivos de dados, no caso em csv;
 >> - raw.csv -> arquivo de dados base;
->> - main.ipynb -> destinado à conter código fonte do projeto dividido por seções.
+>> - main.ipynb -> destinado a conter código fonte do projeto dividido por seções.
 
 
 ## Rodando a aplicação (form)
@@ -81,8 +81,11 @@ Nessa fase de preparação do modelo preparamos os dados categóricos para serem
 
 ![Dados para modelo](img/dataset_to_model.PNG)
 
+Checamos a proporção da relação de fumantes para base de treino e teste (uma vez que é o item que tinha alta correlação com a target). 
 
-Checamos a proporção da relação de fumantes para base de treino e teste (uma vez que é o item que tinha alta correlação com a target).
+Por fim, uma etapa crucial em qualquer projeto de machine learning é a preparação dos dados, que inclui a separação dos mesmos em dois conjuntos distintos: um para treinamento e outro para teste. O conjunto de treinamento é utilizado para ajustar o algoritmo, enquanto o conjunto de teste é reservado para avaliar o desempenho do modelo ao final do processo, permitindo analisar acertos e erros.
+
+Nesta abordagem, os dados serão divididos na proporção de 80% para treinamento e 20% para teste. Além disso, o índice dos conjuntos será redefinido para evitar qualquer possibilidade de identificação ou relação entre os dados, e será verificado o tamanho final dos conjuntos
 
 O primeiro modelo que testamos foi o Linear Regression e obtivemos os seguintes resultados:
 
@@ -103,15 +106,21 @@ Testamos os seguintes modelos:
 - Random Forest Regressor;
 - Poly com Ridgel.
 
-Para comparar eles utilizamos a função cross_val_score junto com o KFold para fazer esse cruzamento de resultados. Com os resultados em mãos geramos o gráfico de comparação:
+Para comparar eles utilizamos a função cross_val_score junto com o KFold para fazer esse cruzamento de resultados. E usamos **max** no dicionário que geramos para obter o modelo com mais precisão. 
 
-E usamos **max** no dicionário que geramos para obter o modelo com mais precisão: **Gradient Boosting Regressor**.
+Para facilitar a execução de novos dados para o modelo, foi criado uma aplicação com interface que carrega modelos salvos e com o input do usuário no formulário exibimos a predição baseado no modelo selecionado.
+
+## Conclusão
+
+Após o processamento dos modelos, fica evidente que o modelo **GradientBoostingRegressor** foi o melhor. Observando o gráfico abaixo, pode se ver que concluir que no quesito acurácia ele apresenta o melhor valor: 0,855. 
+
+![Comparação modelos](img/compare_models.png)
+
+Alguns dados a mais sobre o modelo:
 
 ![Modelo vencedor](img/best_model.PNG)
 
-Para facilitar a execução de novos dados para o modelo criamos uma aplicação com interface que carrega modelos salvos e com o input do usuário no formulário exibimos a predição baseado no modelo selecionado.
 
-## Conclusão
 
 
 
