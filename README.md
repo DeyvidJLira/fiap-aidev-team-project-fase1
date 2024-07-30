@@ -1,4 +1,4 @@
-# fiap-aidev-team-project-fase1
+# Introdução
 Projeto destinado ao desafio da fase 1 do curso de pós graduação "AI para devs" na FIAP.
 
 ## Quer ver no Google Colab?
@@ -19,9 +19,8 @@ Você é um profissional encarregado de desenvolver um modelo preditivo de regre
 > 46,masculino,25.857394655216346,1,não,nordeste,26650.702646642694
 > 32,masculino,23.014839993647488,0,não,sudoeste,21459.03799039332
 
-## Rodando a aplicação (form)
-> - Basta executar todos os scripts contidos em *Passo 0: Setup*;
-> - Executar a função *build_and_start_app()*.
+## Objetivo
+Desenvolver um algoritmo capaz de prever o custo do seguro de saúde com o uso de machine-learning.
 
 ## Estratégia de desenvolvimento
 Cada integrante da equipe ficou de fazer um estudo inicial particular com o objetivo de, a partir do dia 15/07/2024, realizar um debate conjunto e definir o caminho a seguir.
@@ -40,4 +39,13 @@ O arquivo raw.csv é baseado no insurance.csv (ver em https://github.com/FIAP/CU
 O projeto é formado pelas seguintes pastas e arquivos, com os respectivos propósitos:
 > - data -> destinado à conter arquivos de dados, no caso em csv;
 >> - raw.csv -> arquivo de dados base;
-> - main.ipynb -> destinado à conter código fonte do projeto dividido por seções.
+>> - main.ipynb -> destinado à conter código fonte do projeto dividido por seções.
+>
+
+## Rodando a aplicação (form)
+> - Basta executar todos os scripts contidos em *Passo 0: Setup*;
+> - Executar a função *build_and_start_app()*.
+
+
+# Relatório de Resultados
+Após analisar os dados contidos em **raw.csv**, identificamos algumas colunas que se encaixavam como categoria.
