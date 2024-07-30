@@ -51,10 +51,10 @@ O projeto é formado pelas seguintes pastas e arquivos, com os respectivos prop�
 
 ## Análise Exploratória dos Dados
 Após analisar os dados contidos em **raw.csv**, seguindo uma estratégia de exploração que visava:
-> checar os tipos de dados;
-> quantidade de registros:
-> verificar presença de dados faltantes;
-> identificação de colunas candidatas a serem categóricas.
+- checar os tipos de dados;
+- quantidade de registros:
+- verificar presença de dados faltantes;
+- identificação de colunas candidatas a serem categóricas.
 
 ## Pré Tratamento de Dados
 Identificamos quais colunas seriam categorias, no caso respectivamente: sexo, fumante e região. Fizemos então, um mapeamento desses dados visando gerar uma versão processada do csv. 
@@ -63,19 +63,23 @@ Identificamos quais colunas seriam categorias, no caso respectivamente: sexo, fu
 Com isto partimos para uma análise mais profunda onde:
 
 > Verificamos como estavam distribuídos:
-[Hist](img/hist.png)
+
+![Hist](img/hist.png)
 
 > Geramos um mapa dinâmico seguindo a ordem: região > fumante > idade > crianças:
-[Tree Map](img/tree_map.png)
+
+![Tree Map](img/tree_map.png)
 
 > Analisamos a correlação entre os dados:
-[Correlação](img/corr.png)
+
+![Correlação](img/corr.png)
 
 Em posso do entendimento gerado por essas análises iniciamos a construção do modelo.
 
 ## Criação dos Modelos
 Nessa fase de preparação do modelo preparamos os dados categóricos para serem processados no treinamento e separamos as variáveis independentes da dependente.
-[Dados para modelo](img/dataset_to_model.PNG)
+
+![Dados para modelo](img/dataset_to_model.PNG)
 
 
 Checamos a proporção da relação de fumantes para base de treino e teste (uma vez que é o item que tinha alta correlação com a target).
@@ -90,20 +94,20 @@ Dito isto, reescrevemos o código para ficar mais organizado (com isso criamos o
 Com o código organizado decidimos testar outros modelos, mas devido a quantidade que queríamos testar resolvemos criar uma estrutura que agrupa-se funções comuns para os modelos e assim utilizarmos como base para redução de código (foi criado o TrainModelBase).
 
 Testamos os seguintes modelos:
-> Linear Regression;
-> Ridge Regression;
-> Lasso Regression;
-> Elastic Net Regression;
-> Gradient Boosting Regressor;
-> SVR;
-> Random Forest Regressor;
-> Poly com Ridgel.
+- Linear Regression;
+- Ridge Regression;
+- Lasso Regression;
+- Elastic Net Regression;
+- Gradient Boosting Regressor;
+- SVR;
+- Random Forest Regressor;
+- Poly com Ridgel.
 
 Para comparar eles utilizamos a função cross_val_score junto com o KFold para fazer esse cruzamento de resultados. Com os resultados em mãos geramos o gráfico de comparação:
 
 E usamos **max** no dicionário que geramos para obter o modelo com mais precisão: **Gradient Boosting Regressor**.
 
-[Modelo vencedor](img/best_model.PNG)
+![Modelo vencedor](img/best_model.PNG)
 
 Para facilitar a execução de novos dados para o modelo criamos uma aplicação com interface que carrega modelos salvos e com o input do usuário no formulário exibimos a predição baseado no modelo selecionado.
 
