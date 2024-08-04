@@ -91,6 +91,7 @@ Por fim, uma etapa crucial em qualquer projeto de machine learning é a prepara�
 Nesta abordagem, os dados serão divididos na proporção de 80% para treinamento e 20% para teste. Além disso, o índice dos conjuntos será redefinido para evitar qualquer possibilidade de identificação ou relação entre os dados e será verificado o tamanho final dos conjuntos.
 
 O primeiro modelo que testamos foi o *Linear Regression* e obtivemos os seguintes resultados:
+![Linear métricas](img/linear_evaluate.PNG)
 
 Então tentamos melhorar o resultado removendo as categorias que tinham baixa correlação. No entanto, o que foi percebido é que a ausência deles não impactou consideravelmente o resultado do modelo.
 
@@ -126,7 +127,11 @@ Alguns dados a mais sobre o modelo:
 
 ![Modelo vencedor](img/best_model.PNG)
 
-Além disso, é possível comparar também os resultados pelas outras métricas. Obtendo como uma confirmação que o modelo selecionado também apresenta as melhores métricas entre os modelos testados.
+Além disso, é possível comparar também os resultados pelas outras métricas. Obtendo como uma confirmação que o modelo selecionado também apresenta as melhores métricas entre os modelos testados:
+
+![Comparando várias métricas](img/compare_models_metrics.PNG)
+
+
 
 
 
